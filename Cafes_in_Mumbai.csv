@@ -1,0 +1,1001 @@
+,Cafe Name,Address,Rating,Cuisine,Average Cost for Two,Opening Hours,Contact Number
+0,Gourmet Coffee 1,"606 Versova, Mumbai",3.2,Fusion,661,6 AM - 9 PM,8533110290
+1,Brew & Bite 2,"707 Worli, Mumbai",3.3,Indian,1459,8 AM - 8 PM,8971344713
+2,Cafe Moments 3,"808 Malabar Hill, Mumbai",3.3,Vietnamese,1153,9 AM - 12 PM,9565334772
+3,Sip & Savor 4,"606 Versova, Mumbai",3.1,American,1448,9 AM - 12 PM,7911847718
+4,Leisure Lounge 5,"404 Lower Parel, Mumbai",3.0,Italian,582,11 AM - 11 PM,9153355514
+5,Euphoria Cafe 6,"707 Worli, Mumbai",4.0,Japanese,567,7 AM - 10 PM,9398253982
+6,Cafe Bliss 7,"404 Lower Parel, Mumbai",4.9,Dessert,575,10 AM - 8 PM,7605834135
+7,Leisure Lounge 8,"123 Marine Drive, Mumbai",4.2,Greek,467,6 AM - 9 PM,9769650453
+8,Leisure Lounge 9,"1111 Link Road, Mumbai",4.4,Mexican,935,7 AM - 9 PM,7129097611
+9,Morning Dew 10,"909 Carter Road, Mumbai",4.2,Mediterranean,301,11 AM - 8 PM,7622887767
+10,Sip & Savor 11,"1515 Marine Lines, Mumbai",4.1,Thai,313,8 AM - 12 PM,9318220931
+11,Morning Dew 12,"1212 Carter Road, Mumbai",4.1,Mediterranean,509,7 AM - 11 PM,9522083145
+12,Cafe Moments 13,"101 Colaba Causeway, Mumbai",3.8,Italian,1045,11 AM - 8 PM,7913792800
+13,Chillout Cafe 14,"1717 Mahalaxmi, Mumbai",3.8,Indian,352,10 AM - 10 PM,8147451752
+14,Mocha Magic 15,"789 Bandra West, Mumbai",3.8,Indian,1303,11 AM - 12 PM,9363318571
+15,Sip & Savor 16,"1010 Pali Hill, Mumbai",4.3,American,815,10 AM - 10 PM,7020515727
+16,Euphoria Cafe 17,"1212 Carter Road, Mumbai",3.5,Chinese,1204,7 AM - 10 PM,8934311682
+17,Bean & Brew 18,"808 Malabar Hill, Mumbai",3.5,American,320,8 AM - 11 PM,9343683793
+18,Bistro Delight 19,"505 Dadar, Mumbai",3.3,Chinese,1258,7 AM - 10 PM,9955198529
+19,Cafe Bliss 20,"1010 Pali Hill, Mumbai",3.1,French,1272,6 AM - 9 PM,8350286066
+20,Chillout Cafe 21,"707 Worli, Mumbai",3.0,Mediterranean,673,11 AM - 10 PM,9948134462
+21,Euphoria Cafe 22,"1313 Hiranandani Gardens, Mumbai",3.9,Japanese,1137,9 AM - 9 PM,7675322769
+22,Euphoria Cafe 23,"1414 Oberoi Garden City, Mumbai",3.8,Fusion,611,6 AM - 11 PM,7286656610
+23,Bean & Brew 24,"202 Powai Lake, Mumbai",3.9,Italian,892,8 AM - 10 PM,7739982647
+24,Sip & Savor 25,"707 Worli, Mumbai",4.4,Indian,429,7 AM - 12 PM,9822881045
+25,The Tea Room 26,"1616 Girgaum, Mumbai",3.0,Dessert,1041,6 AM - 8 PM,9012629567
+26,Sunset Cafe 27,"404 Lower Parel, Mumbai",3.1,Cafe,586,6 AM - 11 PM,8881486039
+27,Fusion Flavors 28,"505 Dadar, Mumbai",3.3,Greek,1495,6 AM - 8 PM,9057455366
+28,Fusion Flavors 29,"1414 Oberoi Garden City, Mumbai",3.2,Mexican,1014,10 AM - 10 PM,8983174731
+29,Java House 30,"1111 Link Road, Mumbai",3.6,Korean,632,6 AM - 9 PM,7802259243
+30,Cafe Moments 31,"123 Marine Drive, Mumbai",4.2,French,1398,6 AM - 10 PM,8701499048
+31,Sunset Cafe 32,"789 Bandra West, Mumbai",3.9,Lebanese,1194,7 AM - 12 PM,9296437608
+32,Sip & Savor 33,"202 Powai Lake, Mumbai",4.4,Continental,867,9 AM - 8 PM,7169100276
+33,Sunset Cafe 34,"808 Malabar Hill, Mumbai",4.1,French,664,8 AM - 9 PM,8684046659
+34,Cafe Delight 35,"606 Versova, Mumbai",4.1,American,878,7 AM - 8 PM,9639432850
+35,Brew & Bite 36,"202 Powai Lake, Mumbai",3.0,Cafe,1172,10 AM - 9 PM,8032514977
+36,Java House 37,"303 Andheri East, Mumbai",4.7,Mexican,844,9 AM - 10 PM,9880807823
+37,Leisure Lounge 38,"1515 Marine Lines, Mumbai",4.0,Dessert,434,10 AM - 8 PM,8981080462
+38,Euphoria Cafe 39,"123 Marine Drive, Mumbai",4.5,Thai,318,8 AM - 12 PM,8679237854
+39,Bistro Delight 40,"505 Dadar, Mumbai",3.4,Mediterranean,737,10 AM - 9 PM,7302649434
+40,Leisure Lounge 41,"707 Worli, Mumbai",4.9,Mediterranean,905,9 AM - 9 PM,7484008250
+41,Cafe Delight 42,"808 Malabar Hill, Mumbai",4.9,Continental,586,10 AM - 10 PM,9660941337
+42,Sunset Cafe 43,"707 Worli, Mumbai",4.0,Mediterranean,1028,7 AM - 10 PM,9333648801
+43,Chillout Cafe 44,"303 Andheri East, Mumbai",4.2,Thai,1433,6 AM - 11 PM,9421790226
+44,The Tea Room 45,"404 Lower Parel, Mumbai",3.5,Mediterranean,622,9 AM - 9 PM,9690048662
+45,Bistro Delight 46,"707 Worli, Mumbai",3.1,Mexican,667,8 AM - 9 PM,8511421979
+46,Cafe Moments 47,"1616 Girgaum, Mumbai",4.1,Continental,1390,10 AM - 11 PM,7054148071
+47,Bean & Brew 48,"123 Marine Drive, Mumbai",4.6,French,996,6 AM - 11 PM,9436161744
+48,Java House 49,"909 Carter Road, Mumbai",4.6,Vietnamese,1361,10 AM - 9 PM,7635811863
+49,Bistro Delight 50,"202 Powai Lake, Mumbai",3.9,Turkish,676,9 AM - 8 PM,7903777371
+50,Euphoria Cafe 51,"101 Colaba Causeway, Mumbai",3.5,Indian,1140,10 AM - 11 PM,7645903024
+51,Chillout Cafe 52,"1515 Marine Lines, Mumbai",3.1,Lebanese,970,9 AM - 12 PM,9475131292
+52,Mocha Magic 53,"1111 Link Road, Mumbai",4.1,Chinese,1106,8 AM - 12 PM,9815471109
+53,Gourmet Coffee 54,"404 Lower Parel, Mumbai",4.1,Cafe,310,6 AM - 12 PM,7779497902
+54,Bean & Brew 55,"1212 Carter Road, Mumbai",3.3,Lebanese,980,11 AM - 8 PM,8372277025
+55,Cafe Delight 56,"707 Worli, Mumbai",4.7,French,518,6 AM - 11 PM,8279834468
+56,Ocean Brew 57,"1212 Carter Road, Mumbai",3.7,Korean,593,11 AM - 12 PM,8300792840
+57,Cafe Bliss 58,"1212 Carter Road, Mumbai",4.0,Vietnamese,921,9 AM - 8 PM,9348311902
+58,Morning Dew 59,"1717 Mahalaxmi, Mumbai",4.5,Dessert,305,8 AM - 11 PM,7472177978
+59,Ocean Brew 60,"1010 Pali Hill, Mumbai",4.5,Cafe,637,11 AM - 9 PM,7131180697
+60,Bean & Brew 61,"101 Colaba Causeway, Mumbai",4.7,Mediterranean,675,9 AM - 10 PM,9533095553
+61,The Tea Room 62,"808 Malabar Hill, Mumbai",4.4,Thai,405,9 AM - 10 PM,8048156333
+62,Java House 63,"202 Powai Lake, Mumbai",3.9,Continental,384,10 AM - 12 PM,7748007148
+63,Cafe Delight 64,"1212 Carter Road, Mumbai",3.3,Greek,651,10 AM - 12 PM,8283828012
+64,Cafe Delight 65,"1616 Girgaum, Mumbai",3.6,Greek,778,8 AM - 11 PM,9895735505
+65,Bistro Delight 66,"606 Versova, Mumbai",5.0,Lebanese,1064,7 AM - 12 PM,7564129167
+66,The Tea Room 67,"1111 Link Road, Mumbai",3.4,Greek,526,10 AM - 9 PM,9117612356
+67,Fusion Flavors 68,"1515 Marine Lines, Mumbai",3.0,Japanese,452,6 AM - 9 PM,8817660363
+68,Urban Brews 69,"808 Malabar Hill, Mumbai",3.4,Korean,642,9 AM - 8 PM,8890135728
+69,The Tea Room 70,"456 Juhu Beach, Mumbai",4.6,Greek,1115,11 AM - 10 PM,7365619648
+70,Chillout Cafe 71,"303 Andheri East, Mumbai",4.3,Continental,765,6 AM - 8 PM,8687152938
+71,Fusion Flavors 72,"1313 Hiranandani Gardens, Mumbai",4.0,Turkish,1254,8 AM - 11 PM,8161661352
+72,Sunset Cafe 73,"1515 Marine Lines, Mumbai",4.2,Dessert,1262,10 AM - 8 PM,9412615476
+73,Chillout Cafe 74,"202 Powai Lake, Mumbai",5.0,Brazilian,853,10 AM - 8 PM,9053294649
+74,Leisure Lounge 75,"1010 Pali Hill, Mumbai",4.6,Vietnamese,1196,11 AM - 12 PM,8915861299
+75,Euphoria Cafe 76,"1515 Marine Lines, Mumbai",3.7,Greek,998,6 AM - 10 PM,7517876014
+76,Ocean Brew 77,"1313 Hiranandani Gardens, Mumbai",4.9,American,593,11 AM - 11 PM,9682667716
+77,Mocha Magic 78,"1010 Pali Hill, Mumbai",4.5,Dessert,525,6 AM - 12 PM,9901070169
+78,Bean & Brew 79,"1616 Girgaum, Mumbai",3.1,Indian,1060,9 AM - 8 PM,9251538882
+79,Cafe Moments 80,"909 Carter Road, Mumbai",4.3,Japanese,1416,8 AM - 9 PM,8980530671
+80,Brew & Bite 81,"1313 Hiranandani Gardens, Mumbai",3.9,Mediterranean,783,11 AM - 9 PM,8804457946
+81,Urban Brews 82,"808 Malabar Hill, Mumbai",4.7,Japanese,322,10 AM - 12 PM,8423852546
+82,Euphoria Cafe 83,"1010 Pali Hill, Mumbai",3.9,Cafe,728,8 AM - 12 PM,7460502042
+83,Fusion Flavors 84,"1111 Link Road, Mumbai",4.3,Korean,717,6 AM - 8 PM,9374948028
+84,Fusion Flavors 85,"1212 Carter Road, Mumbai",3.2,Fusion,1174,7 AM - 12 PM,7168547775
+85,Urban Brews 86,"606 Versova, Mumbai",4.0,Turkish,909,6 AM - 9 PM,8760484579
+86,Java House 87,"123 Marine Drive, Mumbai",3.1,Mexican,1209,7 AM - 12 PM,9333293559
+87,Ocean Brew 88,"202 Powai Lake, Mumbai",4.4,Dessert,1201,6 AM - 10 PM,7213691758
+88,Bean & Brew 89,"202 Powai Lake, Mumbai",3.7,Korean,439,11 AM - 11 PM,8646781900
+89,Gourmet Coffee 90,"808 Malabar Hill, Mumbai",4.3,Thai,1381,11 AM - 8 PM,8190788509
+90,Sip & Savor 91,"707 Worli, Mumbai",3.9,Brazilian,1293,9 AM - 9 PM,8937502981
+91,Fusion Flavors 92,"303 Andheri East, Mumbai",3.2,Mediterranean,982,7 AM - 12 PM,9274106838
+92,Morning Dew 93,"808 Malabar Hill, Mumbai",3.2,Cafe,849,11 AM - 12 PM,8582340743
+93,Gourmet Coffee 94,"303 Andheri East, Mumbai",3.6,Continental,554,7 AM - 10 PM,8019324431
+94,Bistro Delight 95,"1212 Carter Road, Mumbai",3.5,Cafe,1458,7 AM - 10 PM,9357400609
+95,Cafe Delight 96,"1717 Mahalaxmi, Mumbai",3.9,Turkish,1277,7 AM - 12 PM,8120377393
+96,Java House 97,"808 Malabar Hill, Mumbai",3.7,Korean,1378,11 AM - 10 PM,9446125633
+97,Cafe Moments 98,"123 Marine Drive, Mumbai",4.9,French,427,7 AM - 10 PM,8452423397
+98,Sip & Savor 99,"1515 Marine Lines, Mumbai",3.4,Dessert,394,7 AM - 8 PM,9294108121
+99,Bistro Delight 100,"1414 Oberoi Garden City, Mumbai",3.8,Chinese,1066,9 AM - 11 PM,7805242661
+100,Java House 101,"202 Powai Lake, Mumbai",4.3,Lebanese,1283,7 AM - 9 PM,9266029628
+101,Cafe Moments 102,"202 Powai Lake, Mumbai",3.4,Continental,366,10 AM - 8 PM,9002746737
+102,The Coffee Hub 103,"1616 Girgaum, Mumbai",4.6,Italian,1284,11 AM - 10 PM,9043585779
+103,Mocha Magic 104,"303 Andheri East, Mumbai",4.3,Vietnamese,1102,10 AM - 12 PM,7372405023
+104,Brew & Bite 105,"123 Marine Drive, Mumbai",3.2,Thai,404,6 AM - 10 PM,8974496045
+105,The Tea Room 106,"707 Worli, Mumbai",3.1,Cafe,717,11 AM - 9 PM,9796983112
+106,The Tea Room 107,"1212 Carter Road, Mumbai",4.7,Fusion,469,7 AM - 8 PM,8686286019
+107,Brew & Bite 108,"909 Carter Road, Mumbai",4.3,Vietnamese,1091,8 AM - 11 PM,9606216578
+108,Cafe Delight 109,"1717 Mahalaxmi, Mumbai",3.4,French,1398,11 AM - 11 PM,7990898267
+109,Morning Dew 110,"202 Powai Lake, Mumbai",4.7,Lebanese,1448,10 AM - 11 PM,7530410464
+110,Bean & Brew 111,"101 Colaba Causeway, Mumbai",3.0,Mexican,446,10 AM - 8 PM,8307562232
+111,Urban Brews 112,"303 Andheri East, Mumbai",5.0,Dessert,1042,7 AM - 11 PM,8749301825
+112,The Tea Room 113,"1010 Pali Hill, Mumbai",3.1,Dessert,303,11 AM - 12 PM,7724871572
+113,Fusion Flavors 114,"707 Worli, Mumbai",4.9,American,995,7 AM - 11 PM,7412157684
+114,Chillout Cafe 115,"1717 Mahalaxmi, Mumbai",4.0,Japanese,941,6 AM - 10 PM,8758107774
+115,Euphoria Cafe 116,"505 Dadar, Mumbai",3.6,Spanish,678,9 AM - 8 PM,8810899271
+116,Euphoria Cafe 117,"123 Marine Drive, Mumbai",3.1,Lebanese,367,6 AM - 9 PM,7579649989
+117,Leisure Lounge 118,"808 Malabar Hill, Mumbai",4.5,Brazilian,1226,11 AM - 8 PM,7038917436
+118,Gourmet Coffee 119,"1414 Oberoi Garden City, Mumbai",3.0,Brazilian,538,10 AM - 9 PM,9476338686
+119,Fusion Flavors 120,"1111 Link Road, Mumbai",3.6,Korean,1380,7 AM - 12 PM,7797419784
+120,Morning Dew 121,"1414 Oberoi Garden City, Mumbai",3.8,Mexican,1148,11 AM - 10 PM,7068942451
+121,The Tea Room 122,"707 Worli, Mumbai",3.9,Thai,463,11 AM - 12 PM,8912523302
+122,Morning Dew 123,"1010 Pali Hill, Mumbai",3.7,Vietnamese,683,8 AM - 12 PM,9784245103
+123,Java House 124,"1414 Oberoi Garden City, Mumbai",3.2,Mexican,1427,9 AM - 11 PM,9292157279
+124,Ocean Brew 125,"1313 Hiranandani Gardens, Mumbai",3.5,Indian,1404,10 AM - 12 PM,8501062802
+125,Java House 126,"202 Powai Lake, Mumbai",3.4,Chinese,958,7 AM - 10 PM,9465577855
+126,Urban Brews 127,"505 Dadar, Mumbai",3.3,Brazilian,1194,9 AM - 12 PM,9593008851
+127,Cafe Moments 128,"1212 Carter Road, Mumbai",3.4,Mexican,1472,7 AM - 8 PM,8331952317
+128,Morning Dew 129,"1717 Mahalaxmi, Mumbai",3.9,Vietnamese,1391,8 AM - 11 PM,8613941866
+129,Morning Dew 130,"789 Bandra West, Mumbai",3.5,Cafe,1409,11 AM - 11 PM,9797779422
+130,Chillout Cafe 131,"303 Andheri East, Mumbai",4.2,Cafe,1051,10 AM - 9 PM,7240634489
+131,Brew & Bite 132,"1010 Pali Hill, Mumbai",3.0,Cafe,500,7 AM - 11 PM,7380017517
+132,Leisure Lounge 133,"1717 Mahalaxmi, Mumbai",3.2,Italian,426,11 AM - 12 PM,9198594373
+133,Gourmet Coffee 134,"202 Powai Lake, Mumbai",3.4,Brazilian,418,10 AM - 8 PM,7988972073
+134,Cafe Delight 135,"1010 Pali Hill, Mumbai",4.4,Japanese,1351,6 AM - 8 PM,7540771355
+135,The Tea Room 136,"909 Carter Road, Mumbai",3.4,Spanish,427,9 AM - 10 PM,8216507351
+136,Urban Brews 137,"404 Lower Parel, Mumbai",4.6,Lebanese,644,11 AM - 12 PM,9911781236
+137,Leisure Lounge 138,"707 Worli, Mumbai",3.4,Thai,1336,6 AM - 8 PM,9905031551
+138,Bistro Delight 139,"606 Versova, Mumbai",3.2,Spanish,874,6 AM - 10 PM,8252211345
+139,Leisure Lounge 140,"707 Worli, Mumbai",4.8,Vietnamese,793,9 AM - 10 PM,9103084817
+140,Mocha Magic 141,"1111 Link Road, Mumbai",4.3,Japanese,1344,10 AM - 12 PM,7122857295
+141,The Tea Room 142,"303 Andheri East, Mumbai",4.5,Korean,874,10 AM - 11 PM,9577424375
+142,Morning Dew 143,"1313 Hiranandani Gardens, Mumbai",5.0,Indian,572,6 AM - 8 PM,8549473916
+143,The Tea Room 144,"1616 Girgaum, Mumbai",4.9,Dessert,1410,10 AM - 8 PM,8712981989
+144,Cafe Bliss 145,"1717 Mahalaxmi, Mumbai",4.5,Indian,436,9 AM - 11 PM,9055263347
+145,Brew & Bite 146,"404 Lower Parel, Mumbai",3.3,Dessert,1104,11 AM - 11 PM,7804250880
+146,The Coffee Hub 147,"1111 Link Road, Mumbai",3.5,Cafe,1389,6 AM - 8 PM,9900620366
+147,Fusion Flavors 148,"909 Carter Road, Mumbai",4.7,Korean,1390,6 AM - 11 PM,7661825481
+148,Bean & Brew 149,"202 Powai Lake, Mumbai",4.5,Italian,675,6 AM - 11 PM,7259690960
+149,Brew & Bite 150,"1212 Carter Road, Mumbai",3.4,Italian,977,6 AM - 11 PM,8373497287
+150,Urban Brews 151,"303 Andheri East, Mumbai",5.0,Italian,1037,10 AM - 9 PM,7395386683
+151,Brew & Bite 152,"789 Bandra West, Mumbai",3.1,Thai,1333,9 AM - 12 PM,7171505218
+152,Sunset Cafe 153,"1414 Oberoi Garden City, Mumbai",4.6,American,1332,6 AM - 9 PM,7663065929
+153,Leisure Lounge 154,"1515 Marine Lines, Mumbai",3.9,Indian,947,7 AM - 9 PM,7338457683
+154,The Tea Room 155,"202 Powai Lake, Mumbai",4.1,Mediterranean,875,10 AM - 9 PM,9738269866
+155,Cafe Moments 156,"404 Lower Parel, Mumbai",3.3,French,805,6 AM - 9 PM,9025030573
+156,Urban Brews 157,"1616 Girgaum, Mumbai",4.0,Japanese,1350,9 AM - 12 PM,9746082149
+157,Morning Dew 158,"1616 Girgaum, Mumbai",4.2,Spanish,894,7 AM - 12 PM,8009088775
+158,Urban Brews 159,"101 Colaba Causeway, Mumbai",3.0,Mexican,471,8 AM - 12 PM,7829077465
+159,Euphoria Cafe 160,"909 Carter Road, Mumbai",4.2,Dessert,312,10 AM - 11 PM,9792426721
+160,Cafe Delight 161,"101 Colaba Causeway, Mumbai",4.3,Japanese,556,9 AM - 9 PM,9006764612
+161,Gourmet Coffee 162,"1616 Girgaum, Mumbai",5.0,Chinese,1275,10 AM - 12 PM,7871541231
+162,Bean & Brew 163,"456 Juhu Beach, Mumbai",3.6,French,1439,11 AM - 11 PM,9801847816
+163,The Tea Room 164,"606 Versova, Mumbai",4.8,Chinese,1227,9 AM - 9 PM,7717477453
+164,Cafe Delight 165,"606 Versova, Mumbai",3.2,Cafe,1445,8 AM - 11 PM,7077869802
+165,Sip & Savor 166,"202 Powai Lake, Mumbai",4.6,Vietnamese,1385,6 AM - 9 PM,7062058350
+166,Urban Brews 167,"1717 Mahalaxmi, Mumbai",4.3,Lebanese,932,9 AM - 9 PM,8772333099
+167,Mocha Magic 168,"123 Marine Drive, Mumbai",4.4,Dessert,570,6 AM - 11 PM,7879569921
+168,Bean & Brew 169,"606 Versova, Mumbai",3.7,Spanish,455,6 AM - 11 PM,7908963960
+169,Mocha Magic 170,"1616 Girgaum, Mumbai",4.7,Korean,871,6 AM - 9 PM,8394669662
+170,The Tea Room 171,"101 Colaba Causeway, Mumbai",3.8,Vietnamese,517,10 AM - 9 PM,8347529119
+171,Fusion Flavors 172,"1414 Oberoi Garden City, Mumbai",5.0,Mexican,343,9 AM - 8 PM,8808002675
+172,Cafe Moments 173,"1717 Mahalaxmi, Mumbai",4.2,Greek,1038,9 AM - 12 PM,7992022680
+173,Sip & Savor 174,"707 Worli, Mumbai",4.3,Mediterranean,1431,11 AM - 10 PM,9462115339
+174,Mocha Magic 175,"404 Lower Parel, Mumbai",4.8,Korean,736,6 AM - 10 PM,9164714838
+175,Fusion Flavors 176,"707 Worli, Mumbai",3.5,American,1382,8 AM - 12 PM,9449423059
+176,Brew & Bite 177,"1111 Link Road, Mumbai",3.3,Spanish,371,6 AM - 8 PM,7393525670
+177,Brew & Bite 178,"1717 Mahalaxmi, Mumbai",4.9,Chinese,842,10 AM - 10 PM,8107006200
+178,Cafe Moments 179,"789 Bandra West, Mumbai",4.6,French,1459,10 AM - 12 PM,8826510283
+179,Urban Brews 180,"808 Malabar Hill, Mumbai",3.3,American,857,10 AM - 11 PM,7730006820
+180,The Coffee Hub 181,"1616 Girgaum, Mumbai",3.3,Turkish,498,7 AM - 9 PM,8823754307
+181,Sip & Savor 182,"456 Juhu Beach, Mumbai",3.4,Cafe,872,11 AM - 8 PM,9622530650
+182,Ocean Brew 183,"707 Worli, Mumbai",3.4,Brazilian,1064,7 AM - 8 PM,8396927425
+183,Urban Brews 184,"909 Carter Road, Mumbai",3.1,Japanese,763,7 AM - 8 PM,7870524351
+184,Bean & Brew 185,"123 Marine Drive, Mumbai",3.0,French,597,10 AM - 9 PM,7411647737
+185,Cafe Moments 186,"456 Juhu Beach, Mumbai",4.2,Mediterranean,1104,7 AM - 11 PM,8305183076
+186,Bistro Delight 187,"505 Dadar, Mumbai",3.6,American,680,11 AM - 8 PM,7758915257
+187,Bistro Delight 188,"1111 Link Road, Mumbai",3.9,Vietnamese,1250,7 AM - 8 PM,8751294656
+188,Leisure Lounge 189,"1717 Mahalaxmi, Mumbai",4.4,Mexican,636,8 AM - 12 PM,9517596517
+189,Java House 190,"101 Colaba Causeway, Mumbai",4.2,Turkish,762,7 AM - 8 PM,9292786659
+190,Urban Brews 191,"202 Powai Lake, Mumbai",4.8,American,702,9 AM - 8 PM,8558907939
+191,Cafe Delight 192,"456 Juhu Beach, Mumbai",4.2,Mexican,724,6 AM - 8 PM,8873830351
+192,Bean & Brew 193,"1010 Pali Hill, Mumbai",4.7,Mexican,600,6 AM - 11 PM,9475381900
+193,Java House 194,"606 Versova, Mumbai",3.3,Mediterranean,1015,8 AM - 12 PM,8346934284
+194,Brew & Bite 195,"1212 Carter Road, Mumbai",4.7,Indian,752,11 AM - 8 PM,7449442878
+195,Sip & Savor 196,"404 Lower Parel, Mumbai",3.8,Lebanese,463,9 AM - 10 PM,7362380817
+196,Cafe Delight 197,"808 Malabar Hill, Mumbai",4.1,Lebanese,607,7 AM - 11 PM,8306328752
+197,Sip & Savor 198,"1414 Oberoi Garden City, Mumbai",4.4,Cafe,455,10 AM - 9 PM,9277044043
+198,Sip & Savor 199,"1616 Girgaum, Mumbai",4.3,Cafe,1430,7 AM - 10 PM,7758927311
+199,Cafe Moments 200,"1717 Mahalaxmi, Mumbai",3.2,Italian,1267,6 AM - 9 PM,8915922589
+200,Cafe Bliss 201,"456 Juhu Beach, Mumbai",3.7,Korean,660,9 AM - 11 PM,7763269532
+201,Euphoria Cafe 202,"909 Carter Road, Mumbai",3.5,American,612,11 AM - 11 PM,9968455763
+202,Java House 203,"1212 Carter Road, Mumbai",3.6,Mexican,616,6 AM - 12 PM,8487763067
+203,Cafe Moments 204,"1616 Girgaum, Mumbai",3.7,Mexican,734,9 AM - 8 PM,8312532870
+204,Gourmet Coffee 205,"808 Malabar Hill, Mumbai",3.2,Turkish,839,9 AM - 12 PM,8486666762
+205,Chillout Cafe 206,"707 Worli, Mumbai",3.1,Spanish,1110,11 AM - 10 PM,9326446548
+206,Gourmet Coffee 207,"606 Versova, Mumbai",3.1,Italian,1362,7 AM - 11 PM,8282593068
+207,Morning Dew 208,"303 Andheri East, Mumbai",4.4,Brazilian,1182,10 AM - 11 PM,8689651171
+208,Chillout Cafe 209,"202 Powai Lake, Mumbai",3.1,Chinese,1485,7 AM - 11 PM,9265460548
+209,Euphoria Cafe 210,"1515 Marine Lines, Mumbai",4.9,French,911,10 AM - 11 PM,9667008108
+210,Cafe Bliss 211,"707 Worli, Mumbai",4.2,Japanese,1256,6 AM - 11 PM,8138874408
+211,Bistro Delight 212,"1212 Carter Road, Mumbai",4.9,Indian,1095,8 AM - 9 PM,8904282945
+212,Bean & Brew 213,"1414 Oberoi Garden City, Mumbai",4.6,Italian,1201,11 AM - 12 PM,9013208700
+213,The Tea Room 214,"1616 Girgaum, Mumbai",4.8,Mexican,1362,10 AM - 11 PM,8444989133
+214,Brew & Bite 215,"606 Versova, Mumbai",4.8,Vietnamese,471,8 AM - 11 PM,7776184769
+215,Cafe Delight 216,"606 Versova, Mumbai",4.7,Mexican,384,9 AM - 12 PM,9342379662
+216,Cafe Bliss 217,"202 Powai Lake, Mumbai",3.4,Turkish,683,7 AM - 11 PM,9477603699
+217,Brew & Bite 218,"404 Lower Parel, Mumbai",4.1,Dessert,544,11 AM - 11 PM,9887547226
+218,Cafe Bliss 219,"202 Powai Lake, Mumbai",4.0,Chinese,989,10 AM - 10 PM,7309305140
+219,Cafe Moments 220,"808 Malabar Hill, Mumbai",4.3,Chinese,914,10 AM - 9 PM,7208227524
+220,Sip & Savor 221,"1515 Marine Lines, Mumbai",4.6,American,368,11 AM - 10 PM,9015966136
+221,Sunset Cafe 222,"808 Malabar Hill, Mumbai",4.7,Dessert,662,9 AM - 12 PM,7376885534
+222,Sunset Cafe 223,"505 Dadar, Mumbai",3.8,Lebanese,772,8 AM - 12 PM,9504692028
+223,Bean & Brew 224,"123 Marine Drive, Mumbai",3.8,Spanish,542,8 AM - 12 PM,9362233860
+224,The Tea Room 225,"505 Dadar, Mumbai",4.5,Spanish,737,9 AM - 8 PM,9912065856
+225,Java House 226,"1414 Oberoi Garden City, Mumbai",3.4,French,1204,10 AM - 12 PM,8221853182
+226,Leisure Lounge 227,"404 Lower Parel, Mumbai",3.6,Thai,489,10 AM - 10 PM,9240547122
+227,Euphoria Cafe 228,"909 Carter Road, Mumbai",4.6,Thai,1122,8 AM - 10 PM,9609665868
+228,Chillout Cafe 229,"1616 Girgaum, Mumbai",4.5,French,675,6 AM - 10 PM,7616852667
+229,Gourmet Coffee 230,"505 Dadar, Mumbai",4.3,American,992,7 AM - 10 PM,7644625785
+230,Chillout Cafe 231,"1414 Oberoi Garden City, Mumbai",4.8,Continental,925,11 AM - 12 PM,8019479193
+231,Euphoria Cafe 232,"1414 Oberoi Garden City, Mumbai",3.6,Mediterranean,799,8 AM - 9 PM,8882581266
+232,Cafe Delight 233,"404 Lower Parel, Mumbai",3.7,Lebanese,876,10 AM - 8 PM,7119160081
+233,Sunset Cafe 234,"1717 Mahalaxmi, Mumbai",4.2,French,868,8 AM - 12 PM,7816501878
+234,Chillout Cafe 235,"202 Powai Lake, Mumbai",4.7,Korean,326,7 AM - 11 PM,9005923973
+235,Cafe Moments 236,"505 Dadar, Mumbai",3.3,Greek,684,11 AM - 10 PM,8909880997
+236,Chillout Cafe 237,"606 Versova, Mumbai",3.3,Dessert,1366,9 AM - 8 PM,9433366689
+237,Fusion Flavors 238,"1313 Hiranandani Gardens, Mumbai",3.9,French,1170,8 AM - 12 PM,7973076816
+238,The Tea Room 239,"123 Marine Drive, Mumbai",4.7,Korean,1409,11 AM - 9 PM,7045302650
+239,Leisure Lounge 240,"1616 Girgaum, Mumbai",4.5,Vietnamese,1404,9 AM - 9 PM,9464127252
+240,Brew & Bite 241,"707 Worli, Mumbai",4.8,Spanish,816,8 AM - 12 PM,8545445819
+241,Bean & Brew 242,"1414 Oberoi Garden City, Mumbai",4.5,Spanish,866,6 AM - 8 PM,8949018480
+242,The Coffee Hub 243,"1313 Hiranandani Gardens, Mumbai",4.2,Vietnamese,702,11 AM - 10 PM,7445428239
+243,Cafe Delight 244,"202 Powai Lake, Mumbai",4.7,French,1301,6 AM - 9 PM,8427608166
+244,Sunset Cafe 245,"123 Marine Drive, Mumbai",4.9,Spanish,548,9 AM - 9 PM,9161475770
+245,Urban Brews 246,"1717 Mahalaxmi, Mumbai",4.0,Spanish,1020,11 AM - 10 PM,9617692197
+246,Chillout Cafe 247,"1111 Link Road, Mumbai",4.1,Vietnamese,1389,6 AM - 10 PM,8252349694
+247,Mocha Magic 248,"1313 Hiranandani Gardens, Mumbai",4.5,Mediterranean,1499,8 AM - 8 PM,9087830617
+248,Mocha Magic 249,"1313 Hiranandani Gardens, Mumbai",3.4,Continental,400,8 AM - 12 PM,8889532698
+249,Sunset Cafe 250,"404 Lower Parel, Mumbai",4.6,Fusion,1044,6 AM - 8 PM,8425588198
+250,Cafe Moments 251,"123 Marine Drive, Mumbai",4.7,Spanish,331,8 AM - 9 PM,9074215132
+251,Morning Dew 252,"505 Dadar, Mumbai",4.2,Indian,1227,11 AM - 12 PM,7556729957
+252,The Tea Room 253,"123 Marine Drive, Mumbai",4.2,Chinese,791,8 AM - 8 PM,9817511329
+253,Urban Brews 254,"1515 Marine Lines, Mumbai",3.6,French,1467,10 AM - 12 PM,9073044734
+254,The Coffee Hub 255,"1111 Link Road, Mumbai",4.6,Korean,358,11 AM - 11 PM,7993654358
+255,Bean & Brew 256,"404 Lower Parel, Mumbai",3.1,Fusion,1113,7 AM - 10 PM,7583607861
+256,Cafe Bliss 257,"909 Carter Road, Mumbai",4.5,Spanish,592,10 AM - 8 PM,9190745747
+257,Cafe Bliss 258,"101 Colaba Causeway, Mumbai",4.4,Lebanese,995,10 AM - 9 PM,8112022444
+258,Sip & Savor 259,"1010 Pali Hill, Mumbai",4.5,Greek,1207,9 AM - 10 PM,8196790032
+259,Cafe Delight 260,"1010 Pali Hill, Mumbai",3.5,Indian,466,8 AM - 11 PM,7394522063
+260,Cafe Moments 261,"1616 Girgaum, Mumbai",4.7,Mediterranean,1198,10 AM - 10 PM,9711479137
+261,Bean & Brew 262,"1212 Carter Road, Mumbai",3.4,Greek,314,9 AM - 10 PM,8334175076
+262,Chillout Cafe 263,"101 Colaba Causeway, Mumbai",4.5,Chinese,815,10 AM - 11 PM,9883166916
+263,Sip & Savor 264,"456 Juhu Beach, Mumbai",3.0,Korean,665,6 AM - 11 PM,9330167748
+264,Euphoria Cafe 265,"101 Colaba Causeway, Mumbai",4.6,Brazilian,585,11 AM - 9 PM,7183146483
+265,Brew & Bite 266,"404 Lower Parel, Mumbai",4.3,Mediterranean,600,10 AM - 8 PM,7994962345
+266,Brew & Bite 267,"404 Lower Parel, Mumbai",4.5,Mexican,1078,6 AM - 11 PM,8453214393
+267,Ocean Brew 268,"789 Bandra West, Mumbai",3.8,Lebanese,451,11 AM - 8 PM,9955360168
+268,Bean & Brew 269,"1414 Oberoi Garden City, Mumbai",3.2,Spanish,840,6 AM - 10 PM,7932885042
+269,Bistro Delight 270,"1515 Marine Lines, Mumbai",3.2,Lebanese,740,7 AM - 9 PM,8837160313
+270,Fusion Flavors 271,"101 Colaba Causeway, Mumbai",4.0,Indian,932,9 AM - 12 PM,8029840581
+271,Ocean Brew 272,"202 Powai Lake, Mumbai",3.2,Chinese,876,11 AM - 8 PM,8462259250
+272,Fusion Flavors 273,"404 Lower Parel, Mumbai",3.7,Mediterranean,1355,8 AM - 9 PM,8262977349
+273,The Coffee Hub 274,"707 Worli, Mumbai",3.5,French,1289,9 AM - 12 PM,8825542472
+274,Urban Brews 275,"101 Colaba Causeway, Mumbai",4.7,Indian,1296,9 AM - 9 PM,8897937748
+275,Cafe Moments 276,"101 Colaba Causeway, Mumbai",4.4,Greek,1444,11 AM - 8 PM,8134886064
+276,Cafe Bliss 277,"123 Marine Drive, Mumbai",4.7,Spanish,1412,11 AM - 9 PM,8395050733
+277,Gourmet Coffee 278,"1717 Mahalaxmi, Mumbai",4.0,Lebanese,1483,10 AM - 8 PM,9574770316
+278,Mocha Magic 279,"606 Versova, Mumbai",3.6,Lebanese,1169,6 AM - 11 PM,8607558185
+279,Cafe Bliss 280,"202 Powai Lake, Mumbai",3.6,Fusion,618,9 AM - 12 PM,7744405290
+280,The Coffee Hub 281,"1010 Pali Hill, Mumbai",3.5,Indian,1187,10 AM - 9 PM,7323977042
+281,The Tea Room 282,"606 Versova, Mumbai",4.4,Thai,1114,8 AM - 12 PM,9982821177
+282,Mocha Magic 283,"123 Marine Drive, Mumbai",3.0,Korean,451,6 AM - 10 PM,7205597032
+283,The Coffee Hub 284,"505 Dadar, Mumbai",4.2,Japanese,456,10 AM - 12 PM,8671038101
+284,Ocean Brew 285,"456 Juhu Beach, Mumbai",3.7,Mediterranean,771,10 AM - 9 PM,7813594289
+285,Brew & Bite 286,"303 Andheri East, Mumbai",4.2,Chinese,1161,6 AM - 9 PM,7277383252
+286,Fusion Flavors 287,"789 Bandra West, Mumbai",4.1,Turkish,769,10 AM - 8 PM,8541531128
+287,Cafe Bliss 288,"101 Colaba Causeway, Mumbai",3.1,Indian,1395,11 AM - 10 PM,7784132244
+288,Bistro Delight 289,"808 Malabar Hill, Mumbai",3.5,Turkish,1233,11 AM - 10 PM,9273463496
+289,Gourmet Coffee 290,"456 Juhu Beach, Mumbai",4.4,Mexican,689,10 AM - 8 PM,8889183976
+290,Ocean Brew 291,"1212 Carter Road, Mumbai",3.7,Mexican,1009,7 AM - 12 PM,7865727874
+291,Bistro Delight 292,"505 Dadar, Mumbai",4.2,Japanese,1078,7 AM - 10 PM,8071328677
+292,Bistro Delight 293,"303 Andheri East, Mumbai",4.5,Lebanese,645,10 AM - 11 PM,7362448473
+293,Sunset Cafe 294,"1111 Link Road, Mumbai",4.9,Indian,755,6 AM - 9 PM,8267110421
+294,Sip & Savor 295,"1414 Oberoi Garden City, Mumbai",3.7,Turkish,569,7 AM - 9 PM,8673896095
+295,Cafe Bliss 296,"1111 Link Road, Mumbai",3.7,Mexican,1370,10 AM - 11 PM,9290332411
+296,Morning Dew 297,"1313 Hiranandani Gardens, Mumbai",3.0,Indian,751,8 AM - 8 PM,8436575402
+297,The Tea Room 298,"808 Malabar Hill, Mumbai",4.8,French,402,8 AM - 12 PM,8192329099
+298,Gourmet Coffee 299,"1010 Pali Hill, Mumbai",3.9,Lebanese,953,6 AM - 10 PM,7335109669
+299,The Tea Room 300,"1717 Mahalaxmi, Mumbai",3.8,Fusion,1198,8 AM - 9 PM,9575180681
+300,Cafe Bliss 301,"202 Powai Lake, Mumbai",4.3,Greek,797,9 AM - 11 PM,8517435551
+301,The Tea Room 302,"1212 Carter Road, Mumbai",3.3,Chinese,1289,10 AM - 12 PM,8877157907
+302,Java House 303,"707 Worli, Mumbai",3.2,Lebanese,1452,11 AM - 9 PM,9154859667
+303,Bistro Delight 304,"1111 Link Road, Mumbai",3.1,Greek,1499,6 AM - 10 PM,9110373056
+304,Fusion Flavors 305,"789 Bandra West, Mumbai",3.5,French,1252,10 AM - 10 PM,7039325091
+305,Gourmet Coffee 306,"123 Marine Drive, Mumbai",3.3,Lebanese,1498,9 AM - 8 PM,8278115918
+306,Gourmet Coffee 307,"1212 Carter Road, Mumbai",3.7,Vietnamese,988,11 AM - 11 PM,8826037386
+307,The Tea Room 308,"505 Dadar, Mumbai",3.4,Greek,1437,10 AM - 9 PM,7551506217
+308,Java House 309,"404 Lower Parel, Mumbai",3.8,Fusion,1115,11 AM - 10 PM,8955585806
+309,Morning Dew 310,"101 Colaba Causeway, Mumbai",3.1,Continental,802,7 AM - 10 PM,9443555531
+310,Leisure Lounge 311,"808 Malabar Hill, Mumbai",4.9,Spanish,1217,8 AM - 8 PM,7424579088
+311,Cafe Moments 312,"808 Malabar Hill, Mumbai",4.1,Mexican,544,7 AM - 8 PM,9987540931
+312,Gourmet Coffee 313,"1717 Mahalaxmi, Mumbai",3.2,Mediterranean,924,10 AM - 10 PM,9659585685
+313,Cafe Delight 314,"1010 Pali Hill, Mumbai",4.5,Thai,324,10 AM - 9 PM,7796031883
+314,Ocean Brew 315,"909 Carter Road, Mumbai",3.3,Vietnamese,452,7 AM - 11 PM,7437222120
+315,Brew & Bite 316,"909 Carter Road, Mumbai",4.5,Italian,307,9 AM - 8 PM,8848716657
+316,Cafe Delight 317,"707 Worli, Mumbai",4.6,Greek,1218,11 AM - 10 PM,9634840227
+317,Cafe Moments 318,"707 Worli, Mumbai",3.7,Lebanese,1491,11 AM - 9 PM,9795475093
+318,Leisure Lounge 319,"123 Marine Drive, Mumbai",4.3,Brazilian,618,8 AM - 12 PM,7867379488
+319,Cafe Bliss 320,"303 Andheri East, Mumbai",3.7,Mexican,1480,10 AM - 12 PM,8454101689
+320,Morning Dew 321,"1212 Carter Road, Mumbai",4.0,Spanish,1473,7 AM - 9 PM,8083467160
+321,Bistro Delight 322,"123 Marine Drive, Mumbai",4.5,Greek,633,11 AM - 11 PM,7964100962
+322,Mocha Magic 323,"606 Versova, Mumbai",3.7,Japanese,1148,11 AM - 9 PM,7233913443
+323,Bistro Delight 324,"1010 Pali Hill, Mumbai",4.8,Turkish,1426,6 AM - 9 PM,7793629758
+324,Sunset Cafe 325,"1010 Pali Hill, Mumbai",4.9,Thai,342,11 AM - 8 PM,7111384940
+325,Brew & Bite 326,"1515 Marine Lines, Mumbai",4.0,Indian,320,9 AM - 8 PM,8705009156
+326,Gourmet Coffee 327,"1313 Hiranandani Gardens, Mumbai",4.9,Dessert,741,8 AM - 12 PM,7787849383
+327,Leisure Lounge 328,"808 Malabar Hill, Mumbai",4.9,Chinese,1496,8 AM - 12 PM,8305866248
+328,Sip & Savor 329,"808 Malabar Hill, Mumbai",4.3,Continental,541,9 AM - 9 PM,8231877383
+329,Chillout Cafe 330,"456 Juhu Beach, Mumbai",4.1,Cafe,577,7 AM - 12 PM,7997581911
+330,Euphoria Cafe 331,"303 Andheri East, Mumbai",3.0,Thai,1336,9 AM - 9 PM,9593574124
+331,Bistro Delight 332,"101 Colaba Causeway, Mumbai",4.1,French,1253,10 AM - 12 PM,9806283628
+332,Java House 333,"606 Versova, Mumbai",3.1,Japanese,1150,10 AM - 12 PM,9967524509
+333,Gourmet Coffee 334,"1111 Link Road, Mumbai",4.8,Vietnamese,1254,11 AM - 10 PM,9858811181
+334,Cafe Moments 335,"202 Powai Lake, Mumbai",3.8,Vietnamese,1044,8 AM - 11 PM,7591465419
+335,Sip & Savor 336,"404 Lower Parel, Mumbai",4.3,Chinese,1477,11 AM - 9 PM,9588156343
+336,Cafe Moments 337,"1212 Carter Road, Mumbai",3.9,Korean,485,7 AM - 12 PM,9367930707
+337,Chillout Cafe 338,"1111 Link Road, Mumbai",4.6,Italian,1391,11 AM - 9 PM,7899714686
+338,The Coffee Hub 339,"404 Lower Parel, Mumbai",4.7,Greek,1464,9 AM - 12 PM,9985141905
+339,Euphoria Cafe 340,"909 Carter Road, Mumbai",4.8,Mexican,1070,7 AM - 9 PM,7006832560
+340,Cafe Delight 341,"1414 Oberoi Garden City, Mumbai",3.7,Greek,1274,11 AM - 10 PM,8556823312
+341,Ocean Brew 342,"123 Marine Drive, Mumbai",4.4,Brazilian,1353,6 AM - 9 PM,8156675293
+342,Euphoria Cafe 343,"1616 Girgaum, Mumbai",4.8,American,838,10 AM - 11 PM,8124086218
+343,Gourmet Coffee 344,"808 Malabar Hill, Mumbai",4.1,Dessert,335,7 AM - 10 PM,8112381340
+344,Euphoria Cafe 345,"1010 Pali Hill, Mumbai",3.9,Indian,624,7 AM - 8 PM,8856132674
+345,Brew & Bite 346,"303 Andheri East, Mumbai",4.5,Cafe,1425,6 AM - 10 PM,7931469832
+346,Ocean Brew 347,"456 Juhu Beach, Mumbai",3.3,Mediterranean,514,9 AM - 11 PM,7346348489
+347,Euphoria Cafe 348,"1414 Oberoi Garden City, Mumbai",4.7,American,697,8 AM - 11 PM,8858418267
+348,Cafe Moments 349,"404 Lower Parel, Mumbai",3.2,Chinese,597,11 AM - 9 PM,9420014217
+349,Urban Brews 350,"123 Marine Drive, Mumbai",4.5,Dessert,1359,9 AM - 12 PM,9114430646
+350,Ocean Brew 351,"789 Bandra West, Mumbai",4.7,Cafe,926,7 AM - 9 PM,9255608473
+351,The Tea Room 352,"1616 Girgaum, Mumbai",3.3,Italian,1050,10 AM - 8 PM,9876158281
+352,Fusion Flavors 353,"456 Juhu Beach, Mumbai",3.5,Brazilian,1149,6 AM - 9 PM,8519961404
+353,Euphoria Cafe 354,"1313 Hiranandani Gardens, Mumbai",4.7,Mediterranean,841,9 AM - 11 PM,8431097198
+354,Chillout Cafe 355,"1515 Marine Lines, Mumbai",3.4,American,1391,9 AM - 10 PM,8547271073
+355,Bean & Brew 356,"789 Bandra West, Mumbai",3.8,Spanish,1490,6 AM - 8 PM,7765653905
+356,The Tea Room 357,"1414 Oberoi Garden City, Mumbai",4.6,Turkish,1405,7 AM - 11 PM,8094079620
+357,Sip & Savor 358,"808 Malabar Hill, Mumbai",3.2,Cafe,1366,11 AM - 11 PM,8498959783
+358,Sip & Savor 359,"606 Versova, Mumbai",4.5,Continental,1353,6 AM - 11 PM,8596507247
+359,Leisure Lounge 360,"1212 Carter Road, Mumbai",4.8,Brazilian,615,10 AM - 9 PM,9416610382
+360,The Coffee Hub 361,"1414 Oberoi Garden City, Mumbai",4.6,Vietnamese,764,6 AM - 12 PM,8092504037
+361,Java House 362,"123 Marine Drive, Mumbai",3.6,Japanese,601,9 AM - 10 PM,8587891569
+362,Cafe Moments 363,"1616 Girgaum, Mumbai",4.9,Japanese,717,10 AM - 11 PM,7890277733
+363,Euphoria Cafe 364,"1010 Pali Hill, Mumbai",3.1,Greek,844,9 AM - 12 PM,9225630027
+364,Ocean Brew 365,"1515 Marine Lines, Mumbai",4.2,Spanish,1142,10 AM - 12 PM,7834266062
+365,Morning Dew 366,"789 Bandra West, Mumbai",3.2,Mexican,1358,11 AM - 9 PM,7372049710
+366,Bean & Brew 367,"1414 Oberoi Garden City, Mumbai",4.5,American,1175,10 AM - 11 PM,9520753679
+367,Sip & Savor 368,"123 Marine Drive, Mumbai",5.0,American,1221,7 AM - 12 PM,9882754902
+368,Chillout Cafe 369,"505 Dadar, Mumbai",4.4,Korean,845,6 AM - 8 PM,7794929417
+369,Sip & Savor 370,"808 Malabar Hill, Mumbai",3.4,Chinese,1206,9 AM - 8 PM,9759925506
+370,Morning Dew 371,"1414 Oberoi Garden City, Mumbai",3.6,Dessert,1316,8 AM - 12 PM,9353492225
+371,Bean & Brew 372,"123 Marine Drive, Mumbai",3.9,Brazilian,978,9 AM - 10 PM,9507457129
+372,Bean & Brew 373,"101 Colaba Causeway, Mumbai",3.1,Cafe,1263,11 AM - 8 PM,8504178396
+373,Cafe Moments 374,"1010 Pali Hill, Mumbai",3.8,Vietnamese,1463,7 AM - 9 PM,9339049980
+374,Cafe Bliss 375,"1515 Marine Lines, Mumbai",4.7,American,1290,6 AM - 8 PM,8873943739
+375,Mocha Magic 376,"1313 Hiranandani Gardens, Mumbai",3.4,Cafe,1070,10 AM - 10 PM,8913522289
+376,Gourmet Coffee 377,"101 Colaba Causeway, Mumbai",4.0,Turkish,576,9 AM - 10 PM,7241056215
+377,Cafe Delight 378,"505 Dadar, Mumbai",3.7,Continental,675,8 AM - 12 PM,9093855949
+378,Bistro Delight 379,"606 Versova, Mumbai",4.4,Lebanese,1475,9 AM - 12 PM,7187980432
+379,Morning Dew 380,"707 Worli, Mumbai",4.1,Lebanese,546,8 AM - 9 PM,9025326094
+380,Fusion Flavors 381,"1616 Girgaum, Mumbai",3.7,Brazilian,764,11 AM - 12 PM,8706306540
+381,Ocean Brew 382,"606 Versova, Mumbai",4.0,French,1335,6 AM - 8 PM,8081270886
+382,Brew & Bite 383,"202 Powai Lake, Mumbai",3.8,Dessert,1200,8 AM - 10 PM,7365882140
+383,Chillout Cafe 384,"303 Andheri East, Mumbai",3.2,Lebanese,1178,11 AM - 10 PM,7703434245
+384,Sip & Savor 385,"1717 Mahalaxmi, Mumbai",4.1,Mediterranean,937,11 AM - 9 PM,8862457719
+385,Cafe Moments 386,"1616 Girgaum, Mumbai",3.1,Lebanese,1125,7 AM - 8 PM,9509275560
+386,Leisure Lounge 387,"123 Marine Drive, Mumbai",3.6,Dessert,689,6 AM - 9 PM,8050199627
+387,The Tea Room 388,"1616 Girgaum, Mumbai",3.9,Thai,1318,9 AM - 12 PM,7702547870
+388,Java House 389,"1212 Carter Road, Mumbai",3.9,Chinese,743,8 AM - 10 PM,9669929181
+389,Cafe Moments 390,"707 Worli, Mumbai",3.2,Turkish,1253,11 AM - 11 PM,8703740727
+390,Chillout Cafe 391,"1010 Pali Hill, Mumbai",4.3,Greek,858,8 AM - 9 PM,8815438130
+391,Cafe Bliss 392,"789 Bandra West, Mumbai",4.8,American,957,8 AM - 9 PM,8785870588
+392,Morning Dew 393,"1414 Oberoi Garden City, Mumbai",3.1,Italian,559,7 AM - 10 PM,9725903202
+393,Sunset Cafe 394,"101 Colaba Causeway, Mumbai",4.1,Japanese,672,7 AM - 9 PM,8909861980
+394,Fusion Flavors 395,"202 Powai Lake, Mumbai",3.2,Continental,1165,8 AM - 11 PM,8133325013
+395,Gourmet Coffee 396,"1111 Link Road, Mumbai",5.0,Lebanese,893,9 AM - 9 PM,8292936673
+396,Leisure Lounge 397,"606 Versova, Mumbai",4.4,Cafe,1482,10 AM - 11 PM,9680027071
+397,Euphoria Cafe 398,"123 Marine Drive, Mumbai",3.3,Continental,496,6 AM - 10 PM,9473409766
+398,Bean & Brew 399,"909 Carter Road, Mumbai",3.7,Thai,664,11 AM - 10 PM,8857016609
+399,Chillout Cafe 400,"505 Dadar, Mumbai",4.1,Mexican,1070,8 AM - 9 PM,8387672838
+400,Leisure Lounge 401,"202 Powai Lake, Mumbai",3.2,Mexican,998,8 AM - 8 PM,9350519434
+401,Euphoria Cafe 402,"101 Colaba Causeway, Mumbai",3.3,Japanese,1134,11 AM - 9 PM,8275653023
+402,The Coffee Hub 403,"505 Dadar, Mumbai",4.2,Vietnamese,1264,9 AM - 11 PM,9799480116
+403,Mocha Magic 404,"456 Juhu Beach, Mumbai",4.9,Thai,1028,8 AM - 12 PM,7102414926
+404,Gourmet Coffee 405,"707 Worli, Mumbai",3.4,Thai,309,9 AM - 11 PM,8547993121
+405,Java House 406,"1616 Girgaum, Mumbai",3.3,Continental,644,10 AM - 12 PM,8602932143
+406,Mocha Magic 407,"1111 Link Road, Mumbai",3.9,Cafe,1165,6 AM - 10 PM,7520216466
+407,Euphoria Cafe 408,"303 Andheri East, Mumbai",3.0,Turkish,1425,10 AM - 12 PM,7204571226
+408,Sunset Cafe 409,"808 Malabar Hill, Mumbai",3.9,Japanese,1432,11 AM - 8 PM,7386837914
+409,Chillout Cafe 410,"1717 Mahalaxmi, Mumbai",3.5,Continental,743,10 AM - 8 PM,8791776786
+410,Ocean Brew 411,"1313 Hiranandani Gardens, Mumbai",3.2,Italian,1056,10 AM - 10 PM,7787331075
+411,Sunset Cafe 412,"1414 Oberoi Garden City, Mumbai",3.5,Turkish,649,9 AM - 8 PM,7368891685
+412,Chillout Cafe 413,"1111 Link Road, Mumbai",4.6,Vietnamese,1146,11 AM - 12 PM,7128952347
+413,Ocean Brew 414,"404 Lower Parel, Mumbai",3.6,Indian,1376,7 AM - 11 PM,7109593915
+414,The Tea Room 415,"404 Lower Parel, Mumbai",3.2,Mexican,939,11 AM - 9 PM,9736505515
+415,Ocean Brew 416,"909 Carter Road, Mumbai",4.5,Indian,691,8 AM - 12 PM,9770773610
+416,Sunset Cafe 417,"123 Marine Drive, Mumbai",4.8,American,949,8 AM - 9 PM,8010479554
+417,Cafe Bliss 418,"1616 Girgaum, Mumbai",4.7,Mediterranean,710,11 AM - 12 PM,9728737831
+418,Bistro Delight 419,"789 Bandra West, Mumbai",4.3,Japanese,484,8 AM - 8 PM,9249784303
+419,Bean & Brew 420,"1111 Link Road, Mumbai",3.3,Thai,1482,8 AM - 10 PM,7336664096
+420,Cafe Moments 421,"1515 Marine Lines, Mumbai",3.1,Cafe,1121,9 AM - 9 PM,7125087486
+421,Cafe Bliss 422,"606 Versova, Mumbai",3.6,Turkish,499,6 AM - 10 PM,8238926821
+422,Gourmet Coffee 423,"1313 Hiranandani Gardens, Mumbai",3.6,Lebanese,921,10 AM - 10 PM,8453628253
+423,Leisure Lounge 424,"202 Powai Lake, Mumbai",4.8,Greek,1454,6 AM - 10 PM,8855772405
+424,Urban Brews 425,"909 Carter Road, Mumbai",4.0,Lebanese,1049,9 AM - 10 PM,8977818932
+425,Urban Brews 426,"808 Malabar Hill, Mumbai",3.0,French,490,8 AM - 9 PM,7733274749
+426,Cafe Bliss 427,"202 Powai Lake, Mumbai",4.0,Greek,477,10 AM - 8 PM,7445758442
+427,Cafe Moments 428,"1414 Oberoi Garden City, Mumbai",3.7,Brazilian,764,8 AM - 11 PM,7301981610
+428,Leisure Lounge 429,"789 Bandra West, Mumbai",3.9,Cafe,990,7 AM - 12 PM,7093217209
+429,Euphoria Cafe 430,"202 Powai Lake, Mumbai",3.9,Mediterranean,568,7 AM - 12 PM,7035302411
+430,Sip & Savor 431,"1515 Marine Lines, Mumbai",4.2,Fusion,632,9 AM - 12 PM,9389618918
+431,The Tea Room 432,"202 Powai Lake, Mumbai",4.5,Turkish,323,11 AM - 10 PM,9972986170
+432,Mocha Magic 433,"303 Andheri East, Mumbai",4.8,Turkish,1206,6 AM - 9 PM,7245728197
+433,Sunset Cafe 434,"808 Malabar Hill, Mumbai",3.7,French,888,6 AM - 9 PM,7806572848
+434,The Coffee Hub 435,"1717 Mahalaxmi, Mumbai",4.4,Japanese,763,6 AM - 11 PM,7783666075
+435,Cafe Bliss 436,"123 Marine Drive, Mumbai",4.2,French,628,11 AM - 10 PM,9678847532
+436,Sip & Savor 437,"606 Versova, Mumbai",3.6,Korean,763,10 AM - 9 PM,8878842675
+437,Cafe Bliss 438,"1313 Hiranandani Gardens, Mumbai",3.3,Continental,1456,8 AM - 11 PM,9531059527
+438,Gourmet Coffee 439,"808 Malabar Hill, Mumbai",5.0,Thai,1169,10 AM - 12 PM,9785981549
+439,The Tea Room 440,"1616 Girgaum, Mumbai",3.7,Greek,879,8 AM - 9 PM,7403693819
+440,The Coffee Hub 441,"123 Marine Drive, Mumbai",4.8,Greek,789,6 AM - 12 PM,8330753357
+441,Bean & Brew 442,"1616 Girgaum, Mumbai",3.9,Italian,346,11 AM - 12 PM,9547752831
+442,Cafe Moments 443,"123 Marine Drive, Mumbai",4.0,Continental,1037,6 AM - 10 PM,8224191137
+443,The Tea Room 444,"1414 Oberoi Garden City, Mumbai",4.9,Spanish,1354,6 AM - 10 PM,7824393130
+444,Java House 445,"1212 Carter Road, Mumbai",3.4,Japanese,450,8 AM - 12 PM,8488628394
+445,Brew & Bite 446,"808 Malabar Hill, Mumbai",3.2,Thai,1147,6 AM - 8 PM,9793045708
+446,Sip & Savor 447,"1717 Mahalaxmi, Mumbai",4.9,American,449,8 AM - 11 PM,9326260044
+447,Cafe Delight 448,"101 Colaba Causeway, Mumbai",3.1,Thai,466,9 AM - 10 PM,8500540141
+448,Bistro Delight 449,"1010 Pali Hill, Mumbai",3.9,Continental,1200,6 AM - 10 PM,9522602424
+449,Cafe Delight 450,"505 Dadar, Mumbai",3.9,Italian,542,9 AM - 11 PM,7021362902
+450,Euphoria Cafe 451,"1212 Carter Road, Mumbai",4.9,Dessert,1416,8 AM - 11 PM,8854445637
+451,Urban Brews 452,"101 Colaba Causeway, Mumbai",4.9,Italian,749,9 AM - 10 PM,7529992556
+452,Fusion Flavors 453,"1212 Carter Road, Mumbai",4.5,Continental,890,11 AM - 12 PM,7901116123
+453,Sip & Savor 454,"789 Bandra West, Mumbai",4.7,French,1211,9 AM - 10 PM,7344415836
+454,Euphoria Cafe 455,"1010 Pali Hill, Mumbai",4.7,Continental,430,9 AM - 10 PM,7462508714
+455,Chillout Cafe 456,"808 Malabar Hill, Mumbai",4.4,Korean,745,7 AM - 8 PM,8324086970
+456,Cafe Delight 457,"303 Andheri East, Mumbai",4.6,Korean,903,6 AM - 11 PM,7335400329
+457,Java House 458,"808 Malabar Hill, Mumbai",4.6,Turkish,1473,9 AM - 9 PM,7651527357
+458,Urban Brews 459,"808 Malabar Hill, Mumbai",3.5,Fusion,1394,10 AM - 10 PM,7277304136
+459,Chillout Cafe 460,"789 Bandra West, Mumbai",3.9,Continental,1291,9 AM - 12 PM,7555517432
+460,Cafe Delight 461,"1313 Hiranandani Gardens, Mumbai",3.8,Fusion,1317,11 AM - 11 PM,7723461150
+461,Leisure Lounge 462,"909 Carter Road, Mumbai",3.3,Japanese,475,9 AM - 8 PM,8118979129
+462,Sip & Savor 463,"202 Powai Lake, Mumbai",3.4,Thai,456,8 AM - 12 PM,8711105535
+463,Mocha Magic 464,"505 Dadar, Mumbai",4.4,Vietnamese,930,8 AM - 8 PM,8398362488
+464,Mocha Magic 465,"404 Lower Parel, Mumbai",3.5,Continental,797,6 AM - 11 PM,7369999838
+465,Cafe Delight 466,"1212 Carter Road, Mumbai",4.3,Mediterranean,1379,8 AM - 8 PM,8425366576
+466,Bistro Delight 467,"1515 Marine Lines, Mumbai",3.0,Fusion,1126,7 AM - 12 PM,9204936562
+467,Sunset Cafe 468,"1111 Link Road, Mumbai",4.5,Brazilian,1269,8 AM - 9 PM,7974609752
+468,Sunset Cafe 469,"707 Worli, Mumbai",4.2,Mexican,1210,9 AM - 12 PM,9380541852
+469,Brew & Bite 470,"404 Lower Parel, Mumbai",4.6,Thai,1026,7 AM - 12 PM,8858896385
+470,Cafe Delight 471,"1313 Hiranandani Gardens, Mumbai",4.1,Japanese,1234,9 AM - 8 PM,7968383643
+471,Ocean Brew 472,"1414 Oberoi Garden City, Mumbai",3.1,Greek,1401,11 AM - 9 PM,7395432924
+472,Cafe Moments 473,"505 Dadar, Mumbai",4.5,Vietnamese,518,9 AM - 12 PM,9467816649
+473,Bean & Brew 474,"1616 Girgaum, Mumbai",3.0,Thai,1458,6 AM - 10 PM,8522518316
+474,Urban Brews 475,"1414 Oberoi Garden City, Mumbai",3.8,Greek,504,9 AM - 11 PM,7555652739
+475,Sunset Cafe 476,"404 Lower Parel, Mumbai",4.5,Cafe,698,11 AM - 10 PM,7229927468
+476,Cafe Bliss 477,"404 Lower Parel, Mumbai",3.4,Dessert,914,10 AM - 12 PM,9700259679
+477,Cafe Bliss 478,"789 Bandra West, Mumbai",4.5,Mediterranean,421,7 AM - 8 PM,8196504104
+478,Leisure Lounge 479,"1010 Pali Hill, Mumbai",4.3,Continental,922,11 AM - 8 PM,9432509087
+479,Morning Dew 480,"808 Malabar Hill, Mumbai",5.0,Italian,613,8 AM - 8 PM,7612927910
+480,Euphoria Cafe 481,"456 Juhu Beach, Mumbai",3.1,French,1302,8 AM - 12 PM,8809001807
+481,Cafe Delight 482,"808 Malabar Hill, Mumbai",3.2,Korean,707,9 AM - 11 PM,9760453660
+482,Morning Dew 483,"1717 Mahalaxmi, Mumbai",4.6,American,791,6 AM - 12 PM,9775934751
+483,Leisure Lounge 484,"1414 Oberoi Garden City, Mumbai",3.4,Turkish,602,9 AM - 12 PM,8208556532
+484,Urban Brews 485,"1414 Oberoi Garden City, Mumbai",3.3,Indian,1085,6 AM - 11 PM,8509239387
+485,The Tea Room 486,"1111 Link Road, Mumbai",3.1,American,956,8 AM - 10 PM,9664103480
+486,Leisure Lounge 487,"123 Marine Drive, Mumbai",3.3,Lebanese,437,6 AM - 11 PM,7538562377
+487,Leisure Lounge 488,"101 Colaba Causeway, Mumbai",3.4,Italian,744,7 AM - 12 PM,8688142045
+488,Bistro Delight 489,"1717 Mahalaxmi, Mumbai",3.0,Italian,340,11 AM - 12 PM,8818566194
+489,The Coffee Hub 490,"1111 Link Road, Mumbai",3.4,Vietnamese,782,6 AM - 9 PM,7782475757
+490,Brew & Bite 491,"808 Malabar Hill, Mumbai",3.6,Vietnamese,596,10 AM - 8 PM,7948696495
+491,The Coffee Hub 492,"456 Juhu Beach, Mumbai",4.2,Fusion,905,6 AM - 12 PM,8910007831
+492,Java House 493,"789 Bandra West, Mumbai",3.4,Vietnamese,1143,11 AM - 9 PM,8533936166
+493,Sip & Savor 494,"1616 Girgaum, Mumbai",3.6,Mediterranean,629,7 AM - 10 PM,7837153262
+494,Cafe Delight 495,"123 Marine Drive, Mumbai",4.1,Mexican,1238,9 AM - 9 PM,9533828561
+495,The Coffee Hub 496,"1010 Pali Hill, Mumbai",3.7,Dessert,490,10 AM - 10 PM,8962680252
+496,Morning Dew 497,"1010 Pali Hill, Mumbai",4.9,Mexican,603,10 AM - 10 PM,7475528784
+497,The Tea Room 498,"808 Malabar Hill, Mumbai",5.0,Korean,465,10 AM - 12 PM,9635774826
+498,Sip & Savor 499,"707 Worli, Mumbai",4.9,Korean,466,6 AM - 11 PM,7833403249
+499,Fusion Flavors 500,"909 Carter Road, Mumbai",4.2,Thai,790,7 AM - 10 PM,7392887195
+500,The Coffee Hub 501,"1616 Girgaum, Mumbai",3.6,Korean,332,6 AM - 12 PM,9243375595
+501,Ocean Brew 502,"123 Marine Drive, Mumbai",3.6,Turkish,1046,8 AM - 10 PM,7977979486
+502,Cafe Bliss 503,"808 Malabar Hill, Mumbai",3.6,Brazilian,1476,6 AM - 9 PM,9089929689
+503,Gourmet Coffee 504,"404 Lower Parel, Mumbai",3.9,Continental,924,11 AM - 11 PM,9532596744
+504,Leisure Lounge 505,"404 Lower Parel, Mumbai",3.6,Chinese,715,8 AM - 10 PM,7045983384
+505,Sunset Cafe 506,"1414 Oberoi Garden City, Mumbai",4.5,French,473,6 AM - 10 PM,8878224282
+506,Ocean Brew 507,"202 Powai Lake, Mumbai",3.1,Japanese,1296,9 AM - 9 PM,7538079058
+507,Bistro Delight 508,"789 Bandra West, Mumbai",3.3,Japanese,1216,10 AM - 10 PM,8513698598
+508,Fusion Flavors 509,"606 Versova, Mumbai",3.7,Lebanese,1409,11 AM - 8 PM,7523051459
+509,Cafe Delight 510,"1111 Link Road, Mumbai",4.2,Vietnamese,1136,8 AM - 12 PM,7876451076
+510,Bistro Delight 511,"808 Malabar Hill, Mumbai",4.0,Korean,1281,8 AM - 11 PM,8679131449
+511,Leisure Lounge 512,"456 Juhu Beach, Mumbai",4.8,French,951,7 AM - 8 PM,8499327996
+512,Ocean Brew 513,"808 Malabar Hill, Mumbai",3.8,Turkish,1449,7 AM - 8 PM,7548406313
+513,Euphoria Cafe 514,"789 Bandra West, Mumbai",3.9,Lebanese,407,9 AM - 11 PM,8541765824
+514,Cafe Moments 515,"1616 Girgaum, Mumbai",3.6,French,600,11 AM - 11 PM,8032676006
+515,The Tea Room 516,"808 Malabar Hill, Mumbai",4.8,Continental,400,10 AM - 11 PM,9198525046
+516,Cafe Moments 517,"202 Powai Lake, Mumbai",4.4,Brazilian,412,6 AM - 10 PM,8925201832
+517,Chillout Cafe 518,"606 Versova, Mumbai",4.1,Korean,1395,7 AM - 11 PM,8661441907
+518,Java House 519,"202 Powai Lake, Mumbai",4.9,Indian,768,6 AM - 10 PM,7969289764
+519,Cafe Bliss 520,"505 Dadar, Mumbai",5.0,Greek,439,6 AM - 11 PM,7984538866
+520,Ocean Brew 521,"1212 Carter Road, Mumbai",4.5,Spanish,742,8 AM - 12 PM,8552514097
+521,Cafe Bliss 522,"101 Colaba Causeway, Mumbai",4.4,Continental,492,10 AM - 9 PM,9264090519
+522,Leisure Lounge 523,"808 Malabar Hill, Mumbai",3.3,Indian,1258,9 AM - 11 PM,9809148515
+523,Cafe Bliss 524,"606 Versova, Mumbai",3.7,Korean,933,10 AM - 10 PM,7472145632
+524,Euphoria Cafe 525,"1010 Pali Hill, Mumbai",5.0,Korean,1481,8 AM - 10 PM,9939446185
+525,Java House 526,"456 Juhu Beach, Mumbai",4.7,Greek,807,9 AM - 10 PM,9216551899
+526,Java House 527,"1111 Link Road, Mumbai",3.7,Dessert,1011,10 AM - 10 PM,7308967989
+527,Java House 528,"909 Carter Road, Mumbai",4.8,Greek,343,7 AM - 10 PM,7547633944
+528,Sip & Savor 529,"1212 Carter Road, Mumbai",4.2,Chinese,871,9 AM - 10 PM,9690604119
+529,Chillout Cafe 530,"1515 Marine Lines, Mumbai",4.4,Spanish,1296,10 AM - 12 PM,9365341925
+530,Euphoria Cafe 531,"1515 Marine Lines, Mumbai",3.4,Italian,1410,8 AM - 11 PM,8425372934
+531,Cafe Moments 532,"1717 Mahalaxmi, Mumbai",4.8,Greek,836,11 AM - 12 PM,9511797358
+532,Leisure Lounge 533,"101 Colaba Causeway, Mumbai",4.3,Brazilian,944,7 AM - 11 PM,7980858377
+533,Gourmet Coffee 534,"1515 Marine Lines, Mumbai",4.5,American,864,9 AM - 10 PM,7698732779
+534,Bean & Brew 535,"1313 Hiranandani Gardens, Mumbai",4.5,Fusion,537,7 AM - 11 PM,7972283752
+535,Ocean Brew 536,"1414 Oberoi Garden City, Mumbai",3.9,Indian,687,7 AM - 12 PM,9600935544
+536,Bistro Delight 537,"909 Carter Road, Mumbai",3.3,Japanese,403,7 AM - 8 PM,8407678740
+537,Java House 538,"202 Powai Lake, Mumbai",5.0,Vietnamese,801,9 AM - 10 PM,9261178690
+538,Urban Brews 539,"909 Carter Road, Mumbai",4.2,Fusion,1316,10 AM - 10 PM,7087593524
+539,Leisure Lounge 540,"1717 Mahalaxmi, Mumbai",4.2,French,1076,10 AM - 9 PM,9159542350
+540,Cafe Moments 541,"123 Marine Drive, Mumbai",3.7,Italian,750,6 AM - 9 PM,8987871453
+541,Sip & Savor 542,"404 Lower Parel, Mumbai",4.2,Continental,835,10 AM - 12 PM,8812838057
+542,Gourmet Coffee 543,"707 Worli, Mumbai",3.2,Mediterranean,398,11 AM - 8 PM,9804910606
+543,Leisure Lounge 544,"1212 Carter Road, Mumbai",3.8,Japanese,408,9 AM - 9 PM,8355098097
+544,Sunset Cafe 545,"1313 Hiranandani Gardens, Mumbai",3.9,Vietnamese,943,9 AM - 11 PM,7018921777
+545,Cafe Bliss 546,"1212 Carter Road, Mumbai",4.4,Brazilian,1217,9 AM - 12 PM,8462137170
+546,Mocha Magic 547,"1414 Oberoi Garden City, Mumbai",4.4,Brazilian,1138,9 AM - 11 PM,8134642806
+547,Urban Brews 548,"808 Malabar Hill, Mumbai",4.6,Korean,901,6 AM - 9 PM,7515479487
+548,The Coffee Hub 549,"1616 Girgaum, Mumbai",4.6,French,1172,6 AM - 10 PM,7510501125
+549,Bistro Delight 550,"123 Marine Drive, Mumbai",4.4,Dessert,959,9 AM - 10 PM,8477442856
+550,Bean & Brew 551,"303 Andheri East, Mumbai",4.6,French,470,7 AM - 10 PM,8447383493
+551,Chillout Cafe 552,"404 Lower Parel, Mumbai",3.4,Greek,661,6 AM - 8 PM,9333006185
+552,Bistro Delight 553,"505 Dadar, Mumbai",3.8,Brazilian,453,11 AM - 10 PM,7161176145
+553,Leisure Lounge 554,"303 Andheri East, Mumbai",3.5,Japanese,1080,10 AM - 12 PM,7843644729
+554,Java House 555,"101 Colaba Causeway, Mumbai",3.9,Dessert,747,7 AM - 9 PM,9266293028
+555,Gourmet Coffee 556,"404 Lower Parel, Mumbai",4.7,Mediterranean,927,6 AM - 10 PM,9972953778
+556,Bean & Brew 557,"101 Colaba Causeway, Mumbai",3.5,Vietnamese,524,10 AM - 8 PM,7033614038
+557,Sunset Cafe 558,"1515 Marine Lines, Mumbai",3.0,Mediterranean,1212,8 AM - 12 PM,7889449605
+558,Cafe Moments 559,"707 Worli, Mumbai",4.2,Italian,1394,10 AM - 8 PM,7244577307
+559,Cafe Delight 560,"1111 Link Road, Mumbai",4.7,Greek,1425,8 AM - 11 PM,9681418902
+560,Sunset Cafe 561,"404 Lower Parel, Mumbai",4.9,Indian,582,10 AM - 10 PM,8370947940
+561,Bistro Delight 562,"789 Bandra West, Mumbai",4.0,Fusion,608,8 AM - 9 PM,8769489111
+562,Cafe Moments 563,"456 Juhu Beach, Mumbai",3.5,Japanese,1147,9 AM - 10 PM,9657750660
+563,Cafe Bliss 564,"1414 Oberoi Garden City, Mumbai",3.0,French,617,7 AM - 9 PM,8093755992
+564,Bistro Delight 565,"404 Lower Parel, Mumbai",4.6,Mexican,705,9 AM - 8 PM,7517888468
+565,Chillout Cafe 566,"101 Colaba Causeway, Mumbai",4.2,Indian,814,10 AM - 11 PM,7020691920
+566,The Tea Room 567,"456 Juhu Beach, Mumbai",4.4,Dessert,1359,8 AM - 12 PM,9026443787
+567,The Tea Room 568,"707 Worli, Mumbai",3.3,Cafe,1497,6 AM - 12 PM,8649278674
+568,Gourmet Coffee 569,"404 Lower Parel, Mumbai",3.6,Mexican,1494,11 AM - 10 PM,9073743268
+569,Gourmet Coffee 570,"202 Powai Lake, Mumbai",4.2,Greek,662,8 AM - 11 PM,7659239747
+570,The Coffee Hub 571,"505 Dadar, Mumbai",4.1,Chinese,1018,11 AM - 10 PM,9302889439
+571,Euphoria Cafe 572,"1717 Mahalaxmi, Mumbai",3.5,Mediterranean,1380,6 AM - 11 PM,7245791477
+572,The Coffee Hub 573,"1515 Marine Lines, Mumbai",4.9,American,1372,11 AM - 9 PM,7478068911
+573,Leisure Lounge 574,"101 Colaba Causeway, Mumbai",4.6,Continental,1212,10 AM - 10 PM,7859019138
+574,Leisure Lounge 575,"303 Andheri East, Mumbai",3.9,Vietnamese,1029,6 AM - 9 PM,7709612485
+575,Sip & Savor 576,"1010 Pali Hill, Mumbai",3.5,Italian,1371,7 AM - 11 PM,8276563904
+576,Fusion Flavors 577,"505 Dadar, Mumbai",4.6,Vietnamese,1463,8 AM - 9 PM,8118842959
+577,Morning Dew 578,"1313 Hiranandani Gardens, Mumbai",3.8,Dessert,446,8 AM - 8 PM,8746101644
+578,Bean & Brew 579,"456 Juhu Beach, Mumbai",4.2,Mexican,1150,9 AM - 10 PM,7699032194
+579,Urban Brews 580,"606 Versova, Mumbai",4.5,Thai,347,7 AM - 12 PM,8079037652
+580,Mocha Magic 581,"606 Versova, Mumbai",3.4,Dessert,731,7 AM - 9 PM,9473423478
+581,The Tea Room 582,"606 Versova, Mumbai",4.1,Lebanese,528,11 AM - 8 PM,9986347844
+582,Urban Brews 583,"202 Powai Lake, Mumbai",4.8,Mediterranean,1083,6 AM - 9 PM,8616308041
+583,Sunset Cafe 584,"456 Juhu Beach, Mumbai",3.5,Korean,555,7 AM - 11 PM,8672853475
+584,Fusion Flavors 585,"1515 Marine Lines, Mumbai",4.8,Korean,596,6 AM - 10 PM,9980680919
+585,The Tea Room 586,"303 Andheri East, Mumbai",4.1,Turkish,1277,6 AM - 12 PM,9794140253
+586,Cafe Bliss 587,"1717 Mahalaxmi, Mumbai",3.1,Spanish,1243,8 AM - 8 PM,9115366647
+587,Sip & Savor 588,"1414 Oberoi Garden City, Mumbai",3.9,Indian,1044,10 AM - 12 PM,8519302418
+588,Mocha Magic 589,"1212 Carter Road, Mumbai",4.2,Lebanese,632,10 AM - 9 PM,7171924020
+589,The Tea Room 590,"303 Andheri East, Mumbai",3.7,French,955,7 AM - 12 PM,8445434479
+590,Euphoria Cafe 591,"202 Powai Lake, Mumbai",4.5,Cafe,1187,6 AM - 8 PM,9300246231
+591,The Tea Room 592,"707 Worli, Mumbai",3.3,Chinese,1048,11 AM - 8 PM,7435128869
+592,Chillout Cafe 593,"1515 Marine Lines, Mumbai",4.5,Greek,1417,7 AM - 12 PM,7861312423
+593,Fusion Flavors 594,"808 Malabar Hill, Mumbai",4.3,Fusion,560,10 AM - 12 PM,8686691217
+594,The Coffee Hub 595,"1212 Carter Road, Mumbai",4.2,Indian,652,8 AM - 9 PM,7097149559
+595,Cafe Moments 596,"123 Marine Drive, Mumbai",4.1,Chinese,1276,6 AM - 12 PM,7632650129
+596,Sip & Savor 597,"1515 Marine Lines, Mumbai",4.7,Continental,1236,7 AM - 10 PM,9050289119
+597,Cafe Moments 598,"202 Powai Lake, Mumbai",4.3,Turkish,1494,8 AM - 12 PM,7832740815
+598,Euphoria Cafe 599,"1313 Hiranandani Gardens, Mumbai",4.2,Dessert,468,6 AM - 9 PM,8230466125
+599,Mocha Magic 600,"404 Lower Parel, Mumbai",3.2,Dessert,304,8 AM - 11 PM,7616089749
+600,Ocean Brew 601,"1717 Mahalaxmi, Mumbai",3.4,Japanese,431,8 AM - 8 PM,7847232223
+601,The Tea Room 602,"1212 Carter Road, Mumbai",3.3,Chinese,1357,8 AM - 10 PM,9353416495
+602,Fusion Flavors 603,"808 Malabar Hill, Mumbai",3.0,Fusion,306,6 AM - 9 PM,9050318250
+603,Gourmet Coffee 604,"123 Marine Drive, Mumbai",3.4,Japanese,835,8 AM - 11 PM,8499058518
+604,Mocha Magic 605,"456 Juhu Beach, Mumbai",5.0,Cafe,1031,10 AM - 11 PM,9528766237
+605,Cafe Delight 606,"1212 Carter Road, Mumbai",4.8,Lebanese,912,11 AM - 12 PM,7733584899
+606,Bistro Delight 607,"808 Malabar Hill, Mumbai",3.6,Italian,1121,11 AM - 10 PM,8459622039
+607,Cafe Bliss 608,"1111 Link Road, Mumbai",3.6,Fusion,880,11 AM - 12 PM,8353624564
+608,Sip & Savor 609,"1414 Oberoi Garden City, Mumbai",4.7,Indian,1126,8 AM - 9 PM,9228576299
+609,Java House 610,"1212 Carter Road, Mumbai",4.9,Brazilian,671,7 AM - 9 PM,9162617917
+610,The Coffee Hub 611,"1111 Link Road, Mumbai",4.6,Fusion,810,11 AM - 9 PM,9924806105
+611,Sip & Savor 612,"101 Colaba Causeway, Mumbai",3.4,Cafe,756,6 AM - 12 PM,9565026717
+612,Chillout Cafe 613,"1111 Link Road, Mumbai",4.2,Turkish,1270,7 AM - 9 PM,7739989665
+613,Bistro Delight 614,"1515 Marine Lines, Mumbai",3.1,Lebanese,1448,11 AM - 10 PM,9432730130
+614,Bistro Delight 615,"1111 Link Road, Mumbai",5.0,Cafe,419,9 AM - 12 PM,8325883698
+615,Bean & Brew 616,"1414 Oberoi Garden City, Mumbai",3.6,Turkish,368,8 AM - 9 PM,8151443109
+616,Mocha Magic 617,"202 Powai Lake, Mumbai",4.4,Cafe,1233,11 AM - 11 PM,7430728046
+617,Cafe Delight 618,"123 Marine Drive, Mumbai",3.0,Mediterranean,981,9 AM - 12 PM,7583144649
+618,Brew & Bite 619,"123 Marine Drive, Mumbai",4.1,French,1230,10 AM - 10 PM,9425670279
+619,Fusion Flavors 620,"1010 Pali Hill, Mumbai",4.9,Lebanese,1033,11 AM - 11 PM,7893409011
+620,Sunset Cafe 621,"101 Colaba Causeway, Mumbai",3.3,Italian,971,6 AM - 10 PM,7881677307
+621,Brew & Bite 622,"909 Carter Road, Mumbai",3.3,Turkish,1088,11 AM - 8 PM,8851071123
+622,Brew & Bite 623,"123 Marine Drive, Mumbai",4.2,Spanish,955,9 AM - 9 PM,7371971402
+623,Ocean Brew 624,"1414 Oberoi Garden City, Mumbai",3.9,Spanish,1288,6 AM - 10 PM,7021264607
+624,Urban Brews 625,"606 Versova, Mumbai",3.3,Turkish,1007,6 AM - 12 PM,9155723152
+625,Euphoria Cafe 626,"1616 Girgaum, Mumbai",4.6,Korean,542,10 AM - 8 PM,7032329408
+626,Sunset Cafe 627,"404 Lower Parel, Mumbai",4.1,Vietnamese,1301,8 AM - 9 PM,7413367057
+627,Leisure Lounge 628,"404 Lower Parel, Mumbai",4.2,Mexican,480,8 AM - 12 PM,8799484637
+628,Sip & Savor 629,"456 Juhu Beach, Mumbai",4.7,Greek,500,7 AM - 12 PM,7212804776
+629,Cafe Delight 630,"456 Juhu Beach, Mumbai",4.4,Korean,338,9 AM - 12 PM,8702332204
+630,Sunset Cafe 631,"1111 Link Road, Mumbai",3.2,Continental,1445,8 AM - 10 PM,7483679330
+631,Cafe Moments 632,"808 Malabar Hill, Mumbai",4.3,Fusion,790,11 AM - 10 PM,9518714675
+632,The Coffee Hub 633,"303 Andheri East, Mumbai",4.5,Japanese,1139,7 AM - 9 PM,8886797280
+633,Sip & Savor 634,"1414 Oberoi Garden City, Mumbai",3.2,Chinese,1388,10 AM - 11 PM,9770689514
+634,Sip & Savor 635,"1010 Pali Hill, Mumbai",3.9,Dessert,384,7 AM - 8 PM,9161456138
+635,Sip & Savor 636,"1212 Carter Road, Mumbai",4.1,Continental,1037,9 AM - 12 PM,8904467841
+636,Gourmet Coffee 637,"1414 Oberoi Garden City, Mumbai",3.7,Korean,1079,8 AM - 11 PM,9594961921
+637,Euphoria Cafe 638,"1717 Mahalaxmi, Mumbai",4.9,Chinese,1085,11 AM - 12 PM,7148704134
+638,Sunset Cafe 639,"1717 Mahalaxmi, Mumbai",4.8,Greek,921,8 AM - 8 PM,8863498118
+639,Sip & Savor 640,"1616 Girgaum, Mumbai",3.9,Indian,1449,6 AM - 8 PM,7596919685
+640,Sip & Savor 641,"1313 Hiranandani Gardens, Mumbai",3.1,Continental,1256,11 AM - 12 PM,9594114172
+641,Sunset Cafe 642,"123 Marine Drive, Mumbai",3.6,Brazilian,664,9 AM - 11 PM,9469737908
+642,Bistro Delight 643,"909 Carter Road, Mumbai",4.2,Indian,695,10 AM - 11 PM,7996242733
+643,Leisure Lounge 644,"606 Versova, Mumbai",3.9,Greek,653,6 AM - 8 PM,7536014924
+644,Bistro Delight 645,"123 Marine Drive, Mumbai",4.0,Japanese,1194,10 AM - 12 PM,7188259683
+645,Cafe Moments 646,"404 Lower Parel, Mumbai",3.5,Indian,451,7 AM - 10 PM,7342752594
+646,Cafe Moments 647,"1010 Pali Hill, Mumbai",3.9,Mediterranean,1330,8 AM - 10 PM,9857928167
+647,The Tea Room 648,"1414 Oberoi Garden City, Mumbai",4.1,Turkish,887,11 AM - 8 PM,9704630476
+648,Bean & Brew 649,"789 Bandra West, Mumbai",3.5,Turkish,1377,7 AM - 10 PM,9230459287
+649,Leisure Lounge 650,"404 Lower Parel, Mumbai",4.7,Greek,939,9 AM - 12 PM,9964458645
+650,Gourmet Coffee 651,"1414 Oberoi Garden City, Mumbai",3.1,Dessert,1293,6 AM - 12 PM,9872268238
+651,Mocha Magic 652,"1212 Carter Road, Mumbai",4.1,Spanish,997,9 AM - 11 PM,7570373012
+652,Sip & Savor 653,"909 Carter Road, Mumbai",4.8,Dessert,1051,9 AM - 11 PM,7949151872
+653,Euphoria Cafe 654,"1616 Girgaum, Mumbai",4.0,Korean,1204,8 AM - 8 PM,8529262883
+654,Ocean Brew 655,"808 Malabar Hill, Mumbai",3.7,Dessert,571,9 AM - 8 PM,8111015461
+655,Euphoria Cafe 656,"1212 Carter Road, Mumbai",4.2,Korean,1066,11 AM - 8 PM,8316499038
+656,Chillout Cafe 657,"1717 Mahalaxmi, Mumbai",3.0,Brazilian,1120,7 AM - 9 PM,9100270406
+657,Cafe Moments 658,"808 Malabar Hill, Mumbai",4.6,Turkish,1378,10 AM - 10 PM,7322961029
+658,Leisure Lounge 659,"1313 Hiranandani Gardens, Mumbai",3.8,Chinese,780,10 AM - 10 PM,9698068378
+659,Sunset Cafe 660,"606 Versova, Mumbai",4.4,Vietnamese,1268,8 AM - 12 PM,9353010556
+660,Mocha Magic 661,"1616 Girgaum, Mumbai",3.6,Fusion,1236,9 AM - 11 PM,9317049037
+661,Mocha Magic 662,"1414 Oberoi Garden City, Mumbai",4.2,Mediterranean,1181,11 AM - 8 PM,8330810752
+662,Morning Dew 663,"101 Colaba Causeway, Mumbai",4.5,Korean,1338,6 AM - 11 PM,9964133240
+663,The Coffee Hub 664,"101 Colaba Causeway, Mumbai",3.7,Japanese,387,11 AM - 10 PM,7063445192
+664,Java House 665,"1212 Carter Road, Mumbai",3.4,Indian,472,6 AM - 12 PM,8618543317
+665,Sip & Savor 666,"404 Lower Parel, Mumbai",5.0,Dessert,542,6 AM - 11 PM,7180776874
+666,Bean & Brew 667,"707 Worli, Mumbai",3.4,Thai,631,10 AM - 9 PM,8334756416
+667,Euphoria Cafe 668,"789 Bandra West, Mumbai",4.4,Italian,1443,9 AM - 9 PM,9203092764
+668,Morning Dew 669,"606 Versova, Mumbai",5.0,Mediterranean,843,10 AM - 12 PM,8019833689
+669,Chillout Cafe 670,"101 Colaba Causeway, Mumbai",4.5,American,560,6 AM - 11 PM,9103797133
+670,Brew & Bite 671,"404 Lower Parel, Mumbai",4.5,Spanish,1239,10 AM - 8 PM,7940073359
+671,Chillout Cafe 672,"1717 Mahalaxmi, Mumbai",3.7,Turkish,1222,10 AM - 12 PM,7192559173
+672,Urban Brews 673,"1010 Pali Hill, Mumbai",4.2,Vietnamese,975,6 AM - 11 PM,7156590452
+673,The Coffee Hub 674,"101 Colaba Causeway, Mumbai",3.5,Italian,399,8 AM - 12 PM,8118854162
+674,Brew & Bite 675,"1414 Oberoi Garden City, Mumbai",4.7,Dessert,1364,9 AM - 10 PM,9255684885
+675,Brew & Bite 676,"101 Colaba Causeway, Mumbai",4.0,Brazilian,1488,10 AM - 11 PM,9617576579
+676,Leisure Lounge 677,"303 Andheri East, Mumbai",4.6,Greek,361,10 AM - 10 PM,7632623892
+677,Sunset Cafe 678,"1414 Oberoi Garden City, Mumbai",4.5,Lebanese,1447,6 AM - 11 PM,7589759265
+678,Mocha Magic 679,"1616 Girgaum, Mumbai",4.3,Mediterranean,1002,9 AM - 11 PM,9143937459
+679,Cafe Bliss 680,"123 Marine Drive, Mumbai",4.7,Mexican,897,10 AM - 8 PM,7655166723
+680,Cafe Moments 681,"202 Powai Lake, Mumbai",3.4,Brazilian,811,8 AM - 11 PM,8154745274
+681,Fusion Flavors 682,"456 Juhu Beach, Mumbai",4.1,Japanese,1182,10 AM - 9 PM,8255125593
+682,Bean & Brew 683,"707 Worli, Mumbai",3.8,Brazilian,331,7 AM - 9 PM,9952112386
+683,Chillout Cafe 684,"456 Juhu Beach, Mumbai",4.3,Italian,1146,9 AM - 12 PM,9165731076
+684,Euphoria Cafe 685,"1616 Girgaum, Mumbai",3.1,American,1395,10 AM - 10 PM,8249219494
+685,The Coffee Hub 686,"789 Bandra West, Mumbai",4.6,Turkish,1407,8 AM - 11 PM,9584095741
+686,Leisure Lounge 687,"1616 Girgaum, Mumbai",4.3,Thai,1001,9 AM - 8 PM,7733344792
+687,Euphoria Cafe 688,"123 Marine Drive, Mumbai",3.3,Italian,920,10 AM - 8 PM,7868589821
+688,Euphoria Cafe 689,"1717 Mahalaxmi, Mumbai",4.3,Mediterranean,811,11 AM - 9 PM,7263801966
+689,Java House 690,"606 Versova, Mumbai",4.0,Lebanese,1486,6 AM - 12 PM,9712394105
+690,Sip & Savor 691,"202 Powai Lake, Mumbai",4.4,Turkish,1386,11 AM - 9 PM,9837305804
+691,Fusion Flavors 692,"1111 Link Road, Mumbai",3.8,Japanese,624,9 AM - 10 PM,7616241885
+692,Morning Dew 693,"1717 Mahalaxmi, Mumbai",3.8,Italian,1330,6 AM - 9 PM,7567388202
+693,Mocha Magic 694,"1111 Link Road, Mumbai",4.2,Korean,539,6 AM - 12 PM,8078206587
+694,The Coffee Hub 695,"505 Dadar, Mumbai",3.9,Korean,894,7 AM - 11 PM,8797961130
+695,The Coffee Hub 696,"404 Lower Parel, Mumbai",3.8,Greek,1375,11 AM - 8 PM,8970189701
+696,Sip & Savor 697,"1111 Link Road, Mumbai",4.9,Lebanese,535,11 AM - 11 PM,9327414536
+697,Cafe Bliss 698,"1717 Mahalaxmi, Mumbai",3.4,Indian,694,10 AM - 10 PM,9907241868
+698,The Tea Room 699,"101 Colaba Causeway, Mumbai",4.1,Korean,1088,8 AM - 12 PM,8160252873
+699,Bean & Brew 700,"1515 Marine Lines, Mumbai",3.6,Continental,1464,6 AM - 12 PM,7088383412
+700,Fusion Flavors 701,"606 Versova, Mumbai",4.7,Mexican,1335,11 AM - 11 PM,7116073123
+701,Urban Brews 702,"1515 Marine Lines, Mumbai",3.7,Japanese,1359,6 AM - 9 PM,8054246733
+702,Ocean Brew 703,"456 Juhu Beach, Mumbai",3.3,Brazilian,1386,6 AM - 9 PM,9138329516
+703,The Coffee Hub 704,"1717 Mahalaxmi, Mumbai",4.1,Brazilian,1188,6 AM - 11 PM,8162399408
+704,Urban Brews 705,"303 Andheri East, Mumbai",3.3,Spanish,1064,6 AM - 11 PM,9250960851
+705,Java House 706,"1313 Hiranandani Gardens, Mumbai",4.0,American,1309,7 AM - 10 PM,7434220240
+706,Euphoria Cafe 707,"1515 Marine Lines, Mumbai",3.7,Dessert,1095,6 AM - 8 PM,7252298333
+707,Morning Dew 708,"303 Andheri East, Mumbai",4.1,Turkish,992,8 AM - 8 PM,7098046892
+708,Gourmet Coffee 709,"707 Worli, Mumbai",4.7,Dessert,613,10 AM - 11 PM,9561700582
+709,Gourmet Coffee 710,"789 Bandra West, Mumbai",3.0,Vietnamese,704,7 AM - 11 PM,7037503352
+710,Brew & Bite 711,"1212 Carter Road, Mumbai",4.8,Japanese,1077,11 AM - 9 PM,8758342200
+711,Java House 712,"1414 Oberoi Garden City, Mumbai",4.8,Vietnamese,476,6 AM - 12 PM,9986306959
+712,Bistro Delight 713,"456 Juhu Beach, Mumbai",3.7,Mexican,1376,7 AM - 12 PM,8856830251
+713,Bean & Brew 714,"303 Andheri East, Mumbai",4.9,American,1436,11 AM - 8 PM,8434037319
+714,Chillout Cafe 715,"1010 Pali Hill, Mumbai",4.6,Italian,958,6 AM - 10 PM,7211459886
+715,Euphoria Cafe 716,"1111 Link Road, Mumbai",4.3,American,306,10 AM - 12 PM,7001449024
+716,Euphoria Cafe 717,"456 Juhu Beach, Mumbai",3.7,Mexican,452,9 AM - 8 PM,9314582051
+717,Ocean Brew 718,"1212 Carter Road, Mumbai",3.4,Indian,858,6 AM - 8 PM,7386001491
+718,Java House 719,"202 Powai Lake, Mumbai",4.1,Japanese,664,9 AM - 9 PM,7657056074
+719,The Tea Room 720,"123 Marine Drive, Mumbai",4.2,Thai,383,8 AM - 11 PM,8906706941
+720,Gourmet Coffee 721,"909 Carter Road, Mumbai",3.3,Cafe,1060,9 AM - 8 PM,8302391701
+721,Brew & Bite 722,"707 Worli, Mumbai",4.7,Japanese,1411,8 AM - 8 PM,8595579726
+722,Morning Dew 723,"909 Carter Road, Mumbai",3.1,Greek,464,9 AM - 8 PM,8816068697
+723,The Tea Room 724,"707 Worli, Mumbai",3.3,Dessert,890,9 AM - 9 PM,7536610356
+724,Urban Brews 725,"1414 Oberoi Garden City, Mumbai",3.1,Mediterranean,644,8 AM - 12 PM,7497926297
+725,Urban Brews 726,"1313 Hiranandani Gardens, Mumbai",4.8,Brazilian,1299,6 AM - 11 PM,7270700163
+726,Cafe Delight 727,"1313 Hiranandani Gardens, Mumbai",4.2,Lebanese,602,7 AM - 11 PM,7078963271
+727,Sip & Savor 728,"1717 Mahalaxmi, Mumbai",3.8,Indian,834,7 AM - 11 PM,8097281333
+728,Cafe Bliss 729,"606 Versova, Mumbai",3.4,Italian,1040,11 AM - 8 PM,7845548223
+729,Brew & Bite 730,"101 Colaba Causeway, Mumbai",4.2,Mediterranean,722,9 AM - 10 PM,9434792882
+730,Bistro Delight 731,"1414 Oberoi Garden City, Mumbai",3.8,Lebanese,400,6 AM - 11 PM,9765913008
+731,Brew & Bite 732,"404 Lower Parel, Mumbai",3.8,Greek,951,7 AM - 8 PM,9641130520
+732,The Tea Room 733,"1010 Pali Hill, Mumbai",3.5,American,380,7 AM - 9 PM,9609762851
+733,Sunset Cafe 734,"456 Juhu Beach, Mumbai",4.0,Cafe,1131,6 AM - 11 PM,8156578875
+734,Sip & Savor 735,"909 Carter Road, Mumbai",3.0,Greek,1038,6 AM - 9 PM,7515627681
+735,Mocha Magic 736,"707 Worli, Mumbai",3.4,Greek,323,10 AM - 10 PM,8816177321
+736,Cafe Bliss 737,"303 Andheri East, Mumbai",3.4,Turkish,1082,6 AM - 9 PM,8975845063
+737,Mocha Magic 738,"456 Juhu Beach, Mumbai",4.5,Greek,1325,11 AM - 10 PM,8309481984
+738,Bistro Delight 739,"1616 Girgaum, Mumbai",4.9,Vietnamese,956,7 AM - 10 PM,8986444140
+739,Brew & Bite 740,"505 Dadar, Mumbai",3.1,Cafe,1146,8 AM - 9 PM,7238952295
+740,Euphoria Cafe 741,"505 Dadar, Mumbai",4.0,Spanish,1295,9 AM - 11 PM,7043247244
+741,Fusion Flavors 742,"789 Bandra West, Mumbai",4.5,Cafe,304,6 AM - 12 PM,7817163892
+742,Java House 743,"1414 Oberoi Garden City, Mumbai",4.2,Indian,1178,10 AM - 11 PM,7989508728
+743,Ocean Brew 744,"505 Dadar, Mumbai",3.7,Mediterranean,509,9 AM - 10 PM,9763236086
+744,Urban Brews 745,"808 Malabar Hill, Mumbai",3.9,Chinese,991,7 AM - 11 PM,8977066023
+745,Chillout Cafe 746,"1313 Hiranandani Gardens, Mumbai",4.9,Italian,832,11 AM - 11 PM,8829256996
+746,Fusion Flavors 747,"707 Worli, Mumbai",3.8,Mediterranean,569,8 AM - 8 PM,9727856235
+747,The Tea Room 748,"1111 Link Road, Mumbai",4.0,Indian,1410,6 AM - 12 PM,8735353946
+748,Bean & Brew 749,"404 Lower Parel, Mumbai",4.0,Cafe,1034,7 AM - 10 PM,7109599383
+749,Urban Brews 750,"1212 Carter Road, Mumbai",4.2,Indian,1351,7 AM - 11 PM,8299201074
+750,Ocean Brew 751,"1010 Pali Hill, Mumbai",4.9,Spanish,1287,6 AM - 9 PM,8745350381
+751,Fusion Flavors 752,"1616 Girgaum, Mumbai",3.4,Cafe,578,10 AM - 12 PM,8728607527
+752,Bean & Brew 753,"1010 Pali Hill, Mumbai",3.0,Dessert,557,10 AM - 8 PM,8093047181
+753,Chillout Cafe 754,"123 Marine Drive, Mumbai",3.4,Brazilian,1386,9 AM - 8 PM,9602252001
+754,Leisure Lounge 755,"1515 Marine Lines, Mumbai",3.0,Lebanese,1373,11 AM - 8 PM,8395041367
+755,Sip & Savor 756,"1010 Pali Hill, Mumbai",4.8,American,1210,11 AM - 12 PM,8492549660
+756,Cafe Moments 757,"123 Marine Drive, Mumbai",4.9,Turkish,1026,6 AM - 9 PM,7318484451
+757,Mocha Magic 758,"303 Andheri East, Mumbai",3.3,Mexican,896,6 AM - 12 PM,9778357009
+758,Urban Brews 759,"1414 Oberoi Garden City, Mumbai",4.9,Indian,690,7 AM - 11 PM,9670711315
+759,Morning Dew 760,"789 Bandra West, Mumbai",3.3,Chinese,1092,8 AM - 10 PM,7105399507
+760,Sunset Cafe 761,"303 Andheri East, Mumbai",4.8,Cafe,1459,8 AM - 8 PM,8512345554
+761,Fusion Flavors 762,"1616 Girgaum, Mumbai",4.0,Korean,693,7 AM - 10 PM,9692705068
+762,Gourmet Coffee 763,"1414 Oberoi Garden City, Mumbai",4.3,Dessert,1064,9 AM - 11 PM,9841104297
+763,The Coffee Hub 764,"1313 Hiranandani Gardens, Mumbai",3.7,Indian,1265,10 AM - 12 PM,9843297236
+764,Bistro Delight 765,"789 Bandra West, Mumbai",3.8,Vietnamese,760,8 AM - 12 PM,8696081720
+765,The Tea Room 766,"909 Carter Road, Mumbai",4.7,Brazilian,1005,8 AM - 11 PM,8000951088
+766,The Coffee Hub 767,"909 Carter Road, Mumbai",3.9,Mexican,1401,6 AM - 10 PM,8065236597
+767,Sunset Cafe 768,"404 Lower Parel, Mumbai",3.4,French,313,9 AM - 8 PM,9151078201
+768,Fusion Flavors 769,"505 Dadar, Mumbai",4.8,Dessert,1250,11 AM - 8 PM,7090714240
+769,Cafe Moments 770,"789 Bandra West, Mumbai",4.5,Vietnamese,886,7 AM - 8 PM,9430575643
+770,Euphoria Cafe 771,"606 Versova, Mumbai",5.0,Japanese,655,9 AM - 9 PM,8321337216
+771,Leisure Lounge 772,"1212 Carter Road, Mumbai",3.8,Fusion,1218,6 AM - 12 PM,7031004411
+772,Morning Dew 773,"1414 Oberoi Garden City, Mumbai",3.2,Greek,739,7 AM - 12 PM,9582821611
+773,Bean & Brew 774,"404 Lower Parel, Mumbai",3.2,American,770,11 AM - 11 PM,9029318148
+774,Leisure Lounge 775,"101 Colaba Causeway, Mumbai",3.2,Korean,907,9 AM - 8 PM,9374241258
+775,Euphoria Cafe 776,"1010 Pali Hill, Mumbai",3.4,French,1392,11 AM - 11 PM,7321535746
+776,Urban Brews 777,"101 Colaba Causeway, Mumbai",3.2,Dessert,904,9 AM - 8 PM,7928217069
+777,Cafe Bliss 778,"707 Worli, Mumbai",4.8,Mexican,1341,6 AM - 11 PM,9144238773
+778,Ocean Brew 779,"303 Andheri East, Mumbai",4.8,Continental,324,11 AM - 8 PM,9244932674
+779,Euphoria Cafe 780,"101 Colaba Causeway, Mumbai",4.6,American,849,9 AM - 9 PM,9639507852
+780,Morning Dew 781,"202 Powai Lake, Mumbai",4.4,Chinese,1067,11 AM - 9 PM,9367749574
+781,Cafe Moments 782,"808 Malabar Hill, Mumbai",3.7,Spanish,625,8 AM - 12 PM,7808547269
+782,Bean & Brew 783,"707 Worli, Mumbai",4.9,Korean,1028,6 AM - 10 PM,8436306493
+783,Sip & Savor 784,"808 Malabar Hill, Mumbai",3.8,Lebanese,734,8 AM - 10 PM,8423836997
+784,Java House 785,"1212 Carter Road, Mumbai",4.7,Korean,1279,10 AM - 8 PM,9464664750
+785,Urban Brews 786,"1010 Pali Hill, Mumbai",3.3,French,312,8 AM - 10 PM,7972230419
+786,Mocha Magic 787,"456 Juhu Beach, Mumbai",3.0,Italian,1204,6 AM - 12 PM,9378604210
+787,Gourmet Coffee 788,"1010 Pali Hill, Mumbai",4.5,Mediterranean,1061,11 AM - 9 PM,7070815308
+788,Gourmet Coffee 789,"1313 Hiranandani Gardens, Mumbai",3.3,Vietnamese,1447,8 AM - 10 PM,8118847170
+789,Euphoria Cafe 790,"1010 Pali Hill, Mumbai",3.6,Brazilian,617,8 AM - 11 PM,8573030545
+790,Fusion Flavors 791,"456 Juhu Beach, Mumbai",4.1,Chinese,368,7 AM - 12 PM,9838167939
+791,Sip & Savor 792,"404 Lower Parel, Mumbai",3.7,Italian,618,8 AM - 8 PM,9446572810
+792,Morning Dew 793,"1212 Carter Road, Mumbai",4.9,American,1240,6 AM - 10 PM,9369600788
+793,Cafe Moments 794,"789 Bandra West, Mumbai",4.8,Italian,1104,7 AM - 12 PM,8019371296
+794,Gourmet Coffee 795,"456 Juhu Beach, Mumbai",4.0,Italian,602,7 AM - 10 PM,8799465435
+795,Fusion Flavors 796,"1010 Pali Hill, Mumbai",4.1,Japanese,329,9 AM - 11 PM,8361408441
+796,Cafe Moments 797,"1212 Carter Road, Mumbai",3.5,Cafe,817,11 AM - 8 PM,8449705278
+797,Gourmet Coffee 798,"1515 Marine Lines, Mumbai",4.6,Lebanese,1340,10 AM - 11 PM,8960442599
+798,Bistro Delight 799,"1515 Marine Lines, Mumbai",4.5,Thai,1411,11 AM - 9 PM,9502961520
+799,Fusion Flavors 800,"1212 Carter Road, Mumbai",4.8,Dessert,783,9 AM - 9 PM,9484379806
+800,Leisure Lounge 801,"1515 Marine Lines, Mumbai",4.0,Mexican,500,11 AM - 12 PM,9361052037
+801,Cafe Bliss 802,"1717 Mahalaxmi, Mumbai",4.9,Continental,836,7 AM - 9 PM,8815677548
+802,Brew & Bite 803,"1717 Mahalaxmi, Mumbai",4.0,Mediterranean,1470,11 AM - 12 PM,9795085956
+803,Brew & Bite 804,"1010 Pali Hill, Mumbai",4.5,Turkish,419,6 AM - 8 PM,7535989162
+804,Cafe Delight 805,"1616 Girgaum, Mumbai",3.5,American,442,6 AM - 11 PM,9336089884
+805,Gourmet Coffee 806,"1616 Girgaum, Mumbai",4.4,Thai,772,7 AM - 10 PM,9190677779
+806,Cafe Delight 807,"707 Worli, Mumbai",3.8,Mediterranean,486,10 AM - 9 PM,7591702929
+807,Java House 808,"1212 Carter Road, Mumbai",4.1,Brazilian,629,11 AM - 9 PM,8971055806
+808,The Tea Room 809,"1616 Girgaum, Mumbai",3.3,Thai,1067,10 AM - 10 PM,9202418956
+809,Java House 810,"808 Malabar Hill, Mumbai",4.1,Cafe,539,10 AM - 10 PM,8348777036
+810,Gourmet Coffee 811,"123 Marine Drive, Mumbai",4.2,Vietnamese,427,7 AM - 10 PM,9292108917
+811,The Coffee Hub 812,"303 Andheri East, Mumbai",3.8,French,794,6 AM - 10 PM,9893734511
+812,Cafe Delight 813,"1616 Girgaum, Mumbai",3.6,Continental,579,7 AM - 9 PM,9742439513
+813,Chillout Cafe 814,"1313 Hiranandani Gardens, Mumbai",4.5,Mexican,521,9 AM - 12 PM,8602365454
+814,Bean & Brew 815,"909 Carter Road, Mumbai",4.4,Korean,370,7 AM - 10 PM,7168303241
+815,The Tea Room 816,"1515 Marine Lines, Mumbai",4.6,Korean,527,6 AM - 10 PM,7780999825
+816,Leisure Lounge 817,"1313 Hiranandani Gardens, Mumbai",3.9,Greek,1022,10 AM - 10 PM,7650738755
+817,Bistro Delight 818,"101 Colaba Causeway, Mumbai",3.6,Fusion,396,6 AM - 11 PM,7913549301
+818,Morning Dew 819,"1111 Link Road, Mumbai",4.6,Korean,437,8 AM - 9 PM,8242982538
+819,Urban Brews 820,"303 Andheri East, Mumbai",4.6,French,1336,7 AM - 8 PM,7658957893
+820,Mocha Magic 821,"456 Juhu Beach, Mumbai",4.5,Korean,1309,6 AM - 10 PM,8837891144
+821,Leisure Lounge 822,"1313 Hiranandani Gardens, Mumbai",4.6,Korean,697,6 AM - 10 PM,8878103864
+822,Cafe Delight 823,"1212 Carter Road, Mumbai",4.6,Spanish,538,11 AM - 12 PM,7446228650
+823,Ocean Brew 824,"789 Bandra West, Mumbai",3.8,French,760,7 AM - 10 PM,7796012962
+824,Gourmet Coffee 825,"1515 Marine Lines, Mumbai",3.8,Dessert,594,8 AM - 9 PM,9018429768
+825,Ocean Brew 826,"606 Versova, Mumbai",3.6,Vietnamese,865,11 AM - 11 PM,8854724201
+826,Mocha Magic 827,"505 Dadar, Mumbai",4.2,Continental,583,9 AM - 12 PM,8366461897
+827,The Coffee Hub 828,"1515 Marine Lines, Mumbai",4.8,Brazilian,616,9 AM - 11 PM,9722691133
+828,Java House 829,"1414 Oberoi Garden City, Mumbai",3.6,French,401,9 AM - 12 PM,9817318162
+829,Gourmet Coffee 830,"808 Malabar Hill, Mumbai",3.9,Turkish,1067,9 AM - 9 PM,9561430094
+830,The Tea Room 831,"707 Worli, Mumbai",4.1,Japanese,638,6 AM - 8 PM,7556373541
+831,Brew & Bite 832,"1010 Pali Hill, Mumbai",4.7,Cafe,485,8 AM - 9 PM,8964860840
+832,Gourmet Coffee 833,"1616 Girgaum, Mumbai",4.1,Chinese,483,10 AM - 12 PM,8624936484
+833,Bistro Delight 834,"707 Worli, Mumbai",3.1,Thai,804,10 AM - 9 PM,7479642822
+834,Cafe Moments 835,"707 Worli, Mumbai",4.8,Fusion,626,7 AM - 11 PM,8830187201
+835,The Coffee Hub 836,"202 Powai Lake, Mumbai",4.3,Japanese,995,7 AM - 10 PM,7620759384
+836,Euphoria Cafe 837,"1313 Hiranandani Gardens, Mumbai",4.4,Vietnamese,804,9 AM - 11 PM,9557449991
+837,The Tea Room 838,"101 Colaba Causeway, Mumbai",4.9,Lebanese,683,9 AM - 12 PM,7122666728
+838,The Tea Room 839,"808 Malabar Hill, Mumbai",4.6,Continental,605,10 AM - 9 PM,8310357290
+839,Cafe Delight 840,"909 Carter Road, Mumbai",4.1,Fusion,1297,9 AM - 12 PM,9382591176
+840,Mocha Magic 841,"1313 Hiranandani Gardens, Mumbai",3.3,American,692,10 AM - 9 PM,7833980013
+841,The Coffee Hub 842,"1515 Marine Lines, Mumbai",3.1,Chinese,359,7 AM - 11 PM,8854731959
+842,Cafe Bliss 843,"789 Bandra West, Mumbai",5.0,Turkish,1173,9 AM - 11 PM,8811882591
+843,Brew & Bite 844,"606 Versova, Mumbai",3.1,Spanish,860,9 AM - 8 PM,8004039719
+844,Cafe Bliss 845,"1010 Pali Hill, Mumbai",4.5,Mediterranean,978,8 AM - 9 PM,7723883452
+845,Bean & Brew 846,"1616 Girgaum, Mumbai",4.6,Continental,1460,6 AM - 12 PM,8230306865
+846,Fusion Flavors 847,"123 Marine Drive, Mumbai",3.7,Mediterranean,397,7 AM - 8 PM,8384567654
+847,Brew & Bite 848,"1616 Girgaum, Mumbai",4.7,Dessert,1133,9 AM - 12 PM,9492261177
+848,Bean & Brew 849,"202 Powai Lake, Mumbai",3.1,Japanese,1306,11 AM - 11 PM,9209964925
+849,Ocean Brew 850,"101 Colaba Causeway, Mumbai",4.6,Indian,1419,9 AM - 9 PM,9118295900
+850,The Coffee Hub 851,"1111 Link Road, Mumbai",3.1,Dessert,898,10 AM - 9 PM,9986461215
+851,Urban Brews 852,"1111 Link Road, Mumbai",3.0,Fusion,1269,10 AM - 9 PM,9805589081
+852,The Tea Room 853,"1313 Hiranandani Gardens, Mumbai",4.5,Chinese,368,10 AM - 11 PM,7445761655
+853,The Coffee Hub 854,"1212 Carter Road, Mumbai",3.5,Chinese,661,11 AM - 9 PM,7621550671
+854,The Tea Room 855,"456 Juhu Beach, Mumbai",4.8,Vietnamese,872,9 AM - 8 PM,8425838259
+855,The Coffee Hub 856,"1111 Link Road, Mumbai",3.1,French,882,7 AM - 9 PM,7940723622
+856,Cafe Delight 857,"1212 Carter Road, Mumbai",4.8,Turkish,1179,6 AM - 9 PM,8708206046
+857,Sip & Savor 858,"456 Juhu Beach, Mumbai",4.8,Lebanese,874,9 AM - 10 PM,8182404407
+858,Cafe Moments 859,"606 Versova, Mumbai",4.6,Korean,1140,11 AM - 8 PM,7819794843
+859,Sip & Savor 860,"808 Malabar Hill, Mumbai",4.4,Continental,1087,9 AM - 12 PM,8075035240
+860,Ocean Brew 861,"909 Carter Road, Mumbai",3.9,Korean,907,7 AM - 8 PM,7249080798
+861,Brew & Bite 862,"1313 Hiranandani Gardens, Mumbai",3.6,Chinese,935,11 AM - 11 PM,7403182996
+862,Cafe Delight 863,"1616 Girgaum, Mumbai",4.5,Turkish,350,10 AM - 11 PM,8617556233
+863,Euphoria Cafe 864,"808 Malabar Hill, Mumbai",4.9,French,1369,7 AM - 12 PM,8615770476
+864,Java House 865,"1616 Girgaum, Mumbai",4.8,Continental,774,10 AM - 12 PM,9831775980
+865,Sunset Cafe 866,"404 Lower Parel, Mumbai",3.8,Indian,716,6 AM - 9 PM,8079826053
+866,Leisure Lounge 867,"303 Andheri East, Mumbai",4.9,Continental,1089,7 AM - 8 PM,7033020630
+867,The Tea Room 868,"789 Bandra West, Mumbai",4.9,Fusion,1082,8 AM - 12 PM,8818556431
+868,Sunset Cafe 869,"202 Powai Lake, Mumbai",3.0,American,412,10 AM - 12 PM,8993908802
+869,Bean & Brew 870,"505 Dadar, Mumbai",5.0,Cafe,1438,9 AM - 10 PM,7418879291
+870,Java House 871,"303 Andheri East, Mumbai",4.6,Mexican,1138,6 AM - 8 PM,8565521015
+871,Gourmet Coffee 872,"789 Bandra West, Mumbai",3.1,Brazilian,851,10 AM - 9 PM,8822204087
+872,Bistro Delight 873,"456 Juhu Beach, Mumbai",4.0,Japanese,1473,6 AM - 9 PM,9692404039
+873,Cafe Delight 874,"808 Malabar Hill, Mumbai",3.7,Mediterranean,1022,10 AM - 12 PM,7801920840
+874,The Coffee Hub 875,"1717 Mahalaxmi, Mumbai",3.1,Cafe,1240,8 AM - 12 PM,8357974980
+875,Urban Brews 876,"789 Bandra West, Mumbai",4.7,Mediterranean,844,9 AM - 11 PM,7691560167
+876,Cafe Moments 877,"1515 Marine Lines, Mumbai",4.6,Dessert,1150,7 AM - 8 PM,7569266702
+877,Mocha Magic 878,"303 Andheri East, Mumbai",3.5,Korean,519,10 AM - 8 PM,8162131108
+878,The Coffee Hub 879,"1313 Hiranandani Gardens, Mumbai",3.8,Cafe,608,8 AM - 9 PM,8916617770
+879,Cafe Bliss 880,"202 Powai Lake, Mumbai",4.0,Thai,863,10 AM - 8 PM,9588493301
+880,Bean & Brew 881,"1414 Oberoi Garden City, Mumbai",4.9,Chinese,1421,6 AM - 11 PM,7271484073
+881,Chillout Cafe 882,"505 Dadar, Mumbai",4.6,Fusion,1398,9 AM - 8 PM,8531693466
+882,Euphoria Cafe 883,"404 Lower Parel, Mumbai",3.8,Mediterranean,428,6 AM - 12 PM,7970704737
+883,Sunset Cafe 884,"707 Worli, Mumbai",4.4,Japanese,1213,7 AM - 10 PM,7200855806
+884,Bean & Brew 885,"505 Dadar, Mumbai",4.1,Brazilian,1423,9 AM - 11 PM,9334709642
+885,Leisure Lounge 886,"505 Dadar, Mumbai",3.2,Mediterranean,1479,11 AM - 12 PM,9815441626
+886,Sip & Savor 887,"789 Bandra West, Mumbai",3.6,Continental,1051,10 AM - 12 PM,9619999069
+887,Sip & Savor 888,"202 Powai Lake, Mumbai",4.1,Brazilian,342,6 AM - 9 PM,8463854359
+888,Euphoria Cafe 889,"1717 Mahalaxmi, Mumbai",4.8,Mediterranean,524,8 AM - 9 PM,9804436109
+889,Sip & Savor 890,"1414 Oberoi Garden City, Mumbai",3.6,Fusion,1105,7 AM - 10 PM,9365365778
+890,Bean & Brew 891,"202 Powai Lake, Mumbai",3.4,Mexican,1028,10 AM - 11 PM,9155593990
+891,Bistro Delight 892,"1010 Pali Hill, Mumbai",4.9,Italian,1201,6 AM - 12 PM,8788500815
+892,Java House 893,"101 Colaba Causeway, Mumbai",4.3,Italian,1246,6 AM - 11 PM,9958143996
+893,Cafe Delight 894,"202 Powai Lake, Mumbai",4.3,Fusion,917,9 AM - 10 PM,9084126415
+894,Cafe Bliss 895,"1616 Girgaum, Mumbai",4.2,Lebanese,857,8 AM - 12 PM,9497937877
+895,Fusion Flavors 896,"1313 Hiranandani Gardens, Mumbai",4.6,Thai,1113,10 AM - 10 PM,7529669228
+896,Cafe Delight 897,"404 Lower Parel, Mumbai",4.0,Korean,1436,7 AM - 9 PM,9523654816
+897,The Coffee Hub 898,"303 Andheri East, Mumbai",4.2,Brazilian,1173,11 AM - 11 PM,8656964826
+898,Gourmet Coffee 899,"1414 Oberoi Garden City, Mumbai",4.8,Greek,1080,7 AM - 10 PM,9945835133
+899,Mocha Magic 900,"505 Dadar, Mumbai",4.0,Mediterranean,774,11 AM - 10 PM,9882626154
+900,Fusion Flavors 901,"123 Marine Drive, Mumbai",4.4,French,1341,7 AM - 8 PM,7497405155
+901,Bean & Brew 902,"1010 Pali Hill, Mumbai",3.9,Korean,676,10 AM - 12 PM,8827830664
+902,Bistro Delight 903,"1515 Marine Lines, Mumbai",3.6,Cafe,588,7 AM - 10 PM,7162012321
+903,Leisure Lounge 904,"1616 Girgaum, Mumbai",4.0,Turkish,1357,7 AM - 10 PM,8488352594
+904,The Coffee Hub 905,"707 Worli, Mumbai",4.5,Brazilian,539,7 AM - 11 PM,9588407275
+905,Cafe Moments 906,"505 Dadar, Mumbai",3.7,Continental,471,10 AM - 12 PM,7467875975
+906,Sunset Cafe 907,"909 Carter Road, Mumbai",3.9,Vietnamese,350,6 AM - 9 PM,7032419414
+907,Brew & Bite 908,"505 Dadar, Mumbai",4.0,Japanese,741,9 AM - 12 PM,7696686706
+908,The Tea Room 909,"1515 Marine Lines, Mumbai",3.3,American,1167,11 AM - 8 PM,9459526574
+909,Cafe Delight 910,"404 Lower Parel, Mumbai",3.3,Indian,1071,8 AM - 12 PM,7930651595
+910,Brew & Bite 911,"123 Marine Drive, Mumbai",4.4,Turkish,1164,8 AM - 11 PM,7359045454
+911,Bistro Delight 912,"1616 Girgaum, Mumbai",4.4,Thai,1212,10 AM - 12 PM,7040760074
+912,The Coffee Hub 913,"505 Dadar, Mumbai",3.5,Italian,816,7 AM - 11 PM,9055814386
+913,Leisure Lounge 914,"606 Versova, Mumbai",3.8,French,1178,8 AM - 8 PM,9976928554
+914,Sunset Cafe 915,"808 Malabar Hill, Mumbai",3.6,Italian,1360,7 AM - 9 PM,7850808734
+915,Urban Brews 916,"1010 Pali Hill, Mumbai",3.1,Chinese,658,7 AM - 9 PM,9067833735
+916,Fusion Flavors 917,"1414 Oberoi Garden City, Mumbai",3.5,Korean,819,10 AM - 12 PM,9613631783
+917,Cafe Delight 918,"707 Worli, Mumbai",4.9,Mexican,320,7 AM - 10 PM,9961868773
+918,Morning Dew 919,"456 Juhu Beach, Mumbai",3.3,Mexican,932,11 AM - 9 PM,9400410418
+919,Mocha Magic 920,"1717 Mahalaxmi, Mumbai",3.2,Japanese,638,7 AM - 11 PM,8871421020
+920,Ocean Brew 921,"808 Malabar Hill, Mumbai",4.4,Turkish,435,9 AM - 12 PM,9961335643
+921,Euphoria Cafe 922,"1616 Girgaum, Mumbai",3.3,Japanese,1130,8 AM - 9 PM,8164204764
+922,Morning Dew 923,"808 Malabar Hill, Mumbai",4.3,Dessert,1015,9 AM - 9 PM,8137472335
+923,Euphoria Cafe 924,"707 Worli, Mumbai",4.5,Turkish,649,10 AM - 9 PM,9777308784
+924,Sunset Cafe 925,"909 Carter Road, Mumbai",4.0,Indian,1396,11 AM - 12 PM,7343535742
+925,Sip & Savor 926,"606 Versova, Mumbai",3.1,Dessert,331,7 AM - 9 PM,9897724960
+926,Cafe Bliss 927,"606 Versova, Mumbai",3.6,Brazilian,1110,9 AM - 11 PM,8279841977
+927,Ocean Brew 928,"505 Dadar, Mumbai",4.9,Cafe,1316,6 AM - 11 PM,8077104509
+928,The Coffee Hub 929,"505 Dadar, Mumbai",4.2,Greek,1264,11 AM - 9 PM,8575502302
+929,Brew & Bite 930,"1313 Hiranandani Gardens, Mumbai",4.7,French,1003,9 AM - 9 PM,8046020052
+930,Java House 931,"707 Worli, Mumbai",3.6,Turkish,787,10 AM - 8 PM,8188924738
+931,The Tea Room 932,"303 Andheri East, Mumbai",4.1,Vietnamese,1297,6 AM - 12 PM,9323440377
+932,Brew & Bite 933,"1212 Carter Road, Mumbai",3.9,Korean,532,7 AM - 11 PM,9887094776
+933,Euphoria Cafe 934,"1313 Hiranandani Gardens, Mumbai",3.6,Greek,1494,8 AM - 8 PM,7110902848
+934,Fusion Flavors 935,"1515 Marine Lines, Mumbai",3.6,Brazilian,644,7 AM - 9 PM,7255978386
+935,Sip & Savor 936,"202 Powai Lake, Mumbai",4.9,American,1176,8 AM - 8 PM,7188935861
+936,Urban Brews 937,"606 Versova, Mumbai",3.5,Vietnamese,1485,9 AM - 12 PM,8455395874
+937,Leisure Lounge 938,"303 Andheri East, Mumbai",3.9,French,926,8 AM - 11 PM,7515443679
+938,Leisure Lounge 939,"1515 Marine Lines, Mumbai",4.1,Japanese,336,8 AM - 10 PM,7957787854
+939,Java House 940,"1313 Hiranandani Gardens, Mumbai",4.6,Mediterranean,1195,7 AM - 9 PM,9212387316
+940,Bean & Brew 941,"456 Juhu Beach, Mumbai",3.1,Indian,608,7 AM - 8 PM,8709260467
+941,Cafe Bliss 942,"1010 Pali Hill, Mumbai",3.1,Vietnamese,1271,11 AM - 12 PM,8471305378
+942,Java House 943,"303 Andheri East, Mumbai",4.2,French,410,8 AM - 12 PM,9701831813
+943,The Coffee Hub 944,"1212 Carter Road, Mumbai",3.6,Fusion,410,8 AM - 8 PM,9663664443
+944,Cafe Bliss 945,"505 Dadar, Mumbai",4.8,Italian,1440,6 AM - 12 PM,7828224119
+945,Leisure Lounge 946,"1212 Carter Road, Mumbai",3.2,Cafe,1439,7 AM - 9 PM,9382489659
+946,The Coffee Hub 947,"404 Lower Parel, Mumbai",4.7,Lebanese,1430,10 AM - 10 PM,8704839323
+947,Cafe Moments 948,"123 Marine Drive, Mumbai",4.3,Indian,1131,6 AM - 9 PM,7419196649
+948,Bean & Brew 949,"123 Marine Drive, Mumbai",4.8,Continental,494,9 AM - 9 PM,8997941989
+949,Chillout Cafe 950,"1313 Hiranandani Gardens, Mumbai",4.1,Continental,1146,7 AM - 10 PM,7252818494
+950,Sip & Savor 951,"1515 Marine Lines, Mumbai",3.3,Greek,409,9 AM - 10 PM,7369819025
+951,Fusion Flavors 952,"101 Colaba Causeway, Mumbai",4.3,Thai,1262,8 AM - 11 PM,9449284898
+952,Sip & Savor 953,"707 Worli, Mumbai",3.2,Spanish,1231,6 AM - 8 PM,9228850498
+953,Cafe Bliss 954,"1313 Hiranandani Gardens, Mumbai",4.6,Cafe,1473,11 AM - 9 PM,9264275734
+954,Chillout Cafe 955,"1414 Oberoi Garden City, Mumbai",4.0,Chinese,1207,9 AM - 12 PM,8366288908
+955,Leisure Lounge 956,"456 Juhu Beach, Mumbai",3.5,Thai,1490,10 AM - 10 PM,8231772256
+956,Cafe Delight 957,"1717 Mahalaxmi, Mumbai",4.2,Fusion,555,7 AM - 10 PM,9199473869
+957,Sunset Cafe 958,"606 Versova, Mumbai",4.6,Spanish,939,11 AM - 11 PM,9201052146
+958,Ocean Brew 959,"1717 Mahalaxmi, Mumbai",3.3,American,1091,10 AM - 10 PM,9747508967
+959,Java House 960,"123 Marine Drive, Mumbai",3.3,American,877,8 AM - 12 PM,7165679357
+960,Urban Brews 961,"606 Versova, Mumbai",3.8,Continental,370,7 AM - 11 PM,9157606306
+961,Leisure Lounge 962,"808 Malabar Hill, Mumbai",3.2,Japanese,669,9 AM - 8 PM,9399129019
+962,The Coffee Hub 963,"1414 Oberoi Garden City, Mumbai",3.4,Brazilian,1226,6 AM - 10 PM,7783491508
+963,Bistro Delight 964,"1717 Mahalaxmi, Mumbai",4.9,Fusion,605,11 AM - 8 PM,9567362090
+964,Gourmet Coffee 965,"606 Versova, Mumbai",3.6,Cafe,1316,9 AM - 10 PM,9140973711
+965,Bean & Brew 966,"456 Juhu Beach, Mumbai",3.3,Continental,531,6 AM - 8 PM,9294466130
+966,Cafe Bliss 967,"1414 Oberoi Garden City, Mumbai",4.1,Brazilian,529,10 AM - 10 PM,7673895131
+967,Cafe Delight 968,"1111 Link Road, Mumbai",3.2,Brazilian,890,10 AM - 12 PM,8738951796
+968,Sunset Cafe 969,"404 Lower Parel, Mumbai",3.4,Continental,1190,6 AM - 8 PM,8850300774
+969,Morning Dew 970,"606 Versova, Mumbai",3.3,Continental,1281,11 AM - 11 PM,8095950783
+970,Sunset Cafe 971,"606 Versova, Mumbai",3.9,Continental,1118,6 AM - 10 PM,7204158148
+971,Brew & Bite 972,"1010 Pali Hill, Mumbai",4.7,Fusion,1238,9 AM - 12 PM,7469489493
+972,Cafe Moments 973,"1212 Carter Road, Mumbai",3.2,Korean,1406,10 AM - 10 PM,8636998437
+973,Bistro Delight 974,"808 Malabar Hill, Mumbai",4.9,Brazilian,942,11 AM - 8 PM,9977145186
+974,The Tea Room 975,"202 Powai Lake, Mumbai",3.4,Korean,721,6 AM - 11 PM,7483889929
+975,Brew & Bite 976,"456 Juhu Beach, Mumbai",3.8,Thai,1194,9 AM - 12 PM,9104273737
+976,Mocha Magic 977,"789 Bandra West, Mumbai",4.4,Chinese,1362,8 AM - 11 PM,8505194625
+977,Fusion Flavors 978,"707 Worli, Mumbai",5.0,Chinese,463,7 AM - 12 PM,8374659249
+978,Brew & Bite 979,"1111 Link Road, Mumbai",4.3,Vietnamese,826,7 AM - 8 PM,9272815988
+979,Java House 980,"909 Carter Road, Mumbai",4.5,Korean,723,10 AM - 9 PM,8459003048
+980,Sip & Savor 981,"789 Bandra West, Mumbai",3.8,Vietnamese,1274,11 AM - 8 PM,8267891507
+981,Fusion Flavors 982,"123 Marine Drive, Mumbai",3.1,Mediterranean,1132,11 AM - 8 PM,9871438744
+982,Sip & Savor 983,"202 Powai Lake, Mumbai",3.0,Spanish,1254,8 AM - 8 PM,9207636744
+983,The Coffee Hub 984,"1111 Link Road, Mumbai",3.5,Chinese,555,6 AM - 9 PM,8868702703
+984,Bean & Brew 985,"1010 Pali Hill, Mumbai",3.0,Turkish,1398,7 AM - 9 PM,7138342842
+985,Cafe Bliss 986,"1313 Hiranandani Gardens, Mumbai",3.1,American,1043,8 AM - 10 PM,9339397674
+986,Urban Brews 987,"1010 Pali Hill, Mumbai",4.6,Dessert,614,8 AM - 9 PM,7286946395
+987,Ocean Brew 988,"1515 Marine Lines, Mumbai",4.4,Cafe,560,11 AM - 10 PM,7294867087
+988,Leisure Lounge 989,"1717 Mahalaxmi, Mumbai",3.3,Indian,587,11 AM - 9 PM,9535521493
+989,Sunset Cafe 990,"606 Versova, Mumbai",4.2,Japanese,1233,9 AM - 11 PM,8658610459
+990,Leisure Lounge 991,"808 Malabar Hill, Mumbai",3.6,Fusion,630,11 AM - 9 PM,8460590267
+991,Cafe Bliss 992,"1212 Carter Road, Mumbai",4.1,Japanese,599,8 AM - 11 PM,9639441513
+992,Cafe Delight 993,"1010 Pali Hill, Mumbai",4.1,Japanese,736,8 AM - 9 PM,9903287531
+993,The Tea Room 994,"1515 Marine Lines, Mumbai",3.8,Brazilian,1406,11 AM - 9 PM,8046201003
+994,The Coffee Hub 995,"1616 Girgaum, Mumbai",3.9,Fusion,1292,6 AM - 9 PM,7202183357
+995,Bistro Delight 996,"1414 Oberoi Garden City, Mumbai",3.5,Indian,1438,11 AM - 11 PM,9007070364
+996,Fusion Flavors 997,"1717 Mahalaxmi, Mumbai",3.5,Japanese,1492,10 AM - 12 PM,9280013791
+997,Cafe Moments 998,"1111 Link Road, Mumbai",3.1,Thai,1023,6 AM - 11 PM,8910561370
+998,The Tea Room 999,"123 Marine Drive, Mumbai",4.6,Brazilian,1088,10 AM - 11 PM,7509861326
+999,Sip & Savor 1000,"1717 Mahalaxmi, Mumbai",4.5,Italian,313,11 AM - 12 PM,9914574676
